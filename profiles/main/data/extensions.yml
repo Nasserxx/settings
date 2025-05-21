@@ -112,10 +112,10 @@ disabled:
     uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
   - id: PulkitGangwar.nextjs-snippets
     uuid: cf7acc1f-dea3-4456-9d09-ebff1d01806a
-  - id: rangav.vscode-thunder-client
-    uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: quicktype.quicktype
     uuid: e05d98bf-3735-4c1e-9fae-86ef0a52e19f
+  - id: rangav.vscode-thunder-client
+    uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: rbbit.typescript-hero
     uuid: 38583aca-2ba1-417f-80fc-68ca8d717fb4
   - id: redhat.java
