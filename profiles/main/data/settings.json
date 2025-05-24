@@ -187,7 +187,6 @@
     "rest-client.environmentVariables": {
         "$shared": {}
     },
-    "editor.minimap.showSlider": "always",
     "editor.minimap.size": "fit",
     "git.openRepositoryInParentFolders": "never",
     "clangd.path": "c:\\Users\\naaw\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\16.0.2\\clangd_16.0.2\\bin\\clangd.exe",
@@ -337,5 +336,12 @@
     "sync.forceDownload": true,
     "sync.forceUpload": true,
     "sync.quietSync": true,
-    "window.newWindowProfile": "Default"
+    "window.newWindowProfile": "Default",
+    "dotnetAcquisitionExtension.existingDotnetPath": [],
+    "omnisharp.enableLspDriver": true,
+    "dotnet.backgroundAnalysis.analyzerDiagnosticsScope": "fullSolution",
+    "csharpier.enableDiagnostics": false,
+    "omnisharp.enableDecompilationSupport": true,
+    "dotnet.formatting.organizeImportsOnFormat": true,
+    "editor.minimap.showSlider": "always"
 }

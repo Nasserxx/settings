@@ -18,14 +18,14 @@ disabled:
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: dannysteenman.aws-terraform-extension-pack
     uuid: e6180d7b-9aaf-4c5f-99b7-09ebb0095810
-  - id: dannysteenman.iam-actions-snippets
-    uuid: b494816b-74be-404c-afb3-84967a0ac3e4
   - id: dannysteenman.iam-service-principal-snippets
     uuid: 6652a990-aefe-40f4-97d5-1c0f699f8118
-  - id: DavidAnson.vscode-markdownlint
-    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: dannysteenman.iam-actions-snippets
+    uuid: b494816b-74be-404c-afb3-84967a0ac3e4
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbankier.vscode-quick-select
     uuid: c4fac055-b854-41f0-9610-f8a9d62e9b89
   - id: deque-systems.vscode-axe-linter
@@ -48,8 +48,6 @@ disabled:
     uuid: 4a23294b-fd16-4c51-9759-da9936474cf8
   - id: IbrahimCesar.ibrahimcesar-nextjs-developer-pack
     uuid: d6cfd480-c279-40c7-8ba9-3996805717fa
-  - id: Ionide.Ionide-fsharp
-    uuid: 0ea05e3f-5a38-419d-8305-f6c3f6d409d2
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: JuanBlanco.solidity
@@ -70,12 +68,8 @@ disabled:
     uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
   - id: ms-azuretools.vscode-logicapps
     uuid: 704f9af2-deb0-46f9-b678-550e7d4ec1d5
-  - id: ms-dotnettools.csdevkit
-    uuid: 7ad42776-8f7e-4214-bf67-4f0b518ef629
   - id: ms-dotnettools.dotnet-interactive-vscode
     uuid: 2c76994b-85ab-4c26-8881-83028e2ecbf4
-  - id: ms-dotnettools.vscodeintellicode-csharp
-    uuid: 13fef117-0575-4dc5-b573-5cb945a69d0a
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
@@ -104,16 +98,16 @@ disabled:
     uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
-  - id: Postman.postman-for-vscode
-    uuid: 48fcb244-71c2-4877-aed3-29b36098a411
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: Postman.postman-for-vscode
+    uuid: 48fcb244-71c2-4877-aed3-29b36098a411
   - id: Prisma.prisma
     uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
-  - id: PulkitGangwar.nextjs-snippets
-    uuid: cf7acc1f-dea3-4456-9d09-ebff1d01806a
   - id: quicktype.quicktype
     uuid: e05d98bf-3735-4c1e-9fae-86ef0a52e19f
+  - id: PulkitGangwar.nextjs-snippets
+    uuid: cf7acc1f-dea3-4456-9d09-ebff1d01806a
   - id: rangav.vscode-thunder-client
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: rbbit.typescript-hero
@@ -199,10 +193,6 @@ enabled:
     uuid: cc680956-6ea2-442f-aa05-b91061b4611c
   - id: formulahendry.dotnet
     uuid: 17baf027-6531-408d-9dc4-d16f5c80fa1b
-  - id: formulahendry.dotnet-test-explorer
-    uuid: 42853f4f-0c67-4aa7-bb79-a00fec9146c4
-  - id: Fudge.auto-using
-    uuid: af14ddf1-c53e-4d84-82d2-f0d31549ea80
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: inferrinizzard.prettier-sql-vscode
@@ -239,8 +229,6 @@ enabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: MS-CEINTL.vscode-language-pack-de
     uuid: bf2ad3a8-0475-49ea-8851-4e9e8074a4f2
-  - id: ms-dotnettools.csharp
-    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
   - id: ms-dotnettools.vscode-dotnet-runtime
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-edgedevtools.vscode-edge-devtools
@@ -285,8 +273,6 @@ enabled:
     uuid: f7d921d1-e720-42be-b9ed-77f01afb05d7
   - id: sdras.vue-vscode-snippets
     uuid: c8d95916-cf54-455f-b324-cbd887b7d3a8
-  - id: Shan.code-settings-sync
-    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
   - id: sirmspencer.vscode-autohide
     uuid: 61382b16-3fe4-45b1-a99b-31c038002c09
   - id: styled-components.vscode-styled-components
