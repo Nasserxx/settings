@@ -38,7 +38,7 @@
         "**/.settings": false,
         "**/node_modules": false
     },
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
     "redhat.telemetry.enabled": true,
     "liveServer.settings.donotVerifyTags": true,
     "tabnine.experimentalAutoImports": true,
@@ -306,7 +306,7 @@
     "powershell.promptToUpdatePowerShell": false,
     "editor.inlayHints.enabled": "off",
     "editor.guides.indentation": false,
-    "editor.guides.bracketPairs": false,
+    "editor.guides.bracketPairs": "active",
     "vite.port": 5173,
     "mssql.connectionGroups": [
         {
@@ -343,5 +343,10 @@
     "csharpier.enableDiagnostics": false,
     "omnisharp.enableDecompilationSupport": true,
     "dotnet.formatting.organizeImportsOnFormat": true,
-    "editor.minimap.showSlider": "always"
+    "editor.minimap.showSlider": "always",
+    "cursor.composer.shouldAllowCustomModes": true,
+    "cursor.diffs.useCharacterLevelDiffs": true,
+    "workbench.panel.showLabels": false,
+    "diffEditor.renderSideBySide": false,
+    "diffEditor.hideUnchangedRegions.enabled": true
 }
