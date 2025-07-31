@@ -4,10 +4,10 @@ builtin:
 disabled:
   - id: amazonwebservices.aws-toolkit-vscode
     uuid: ac5787df-9b2d-441c-abf0-977d62bc66f0
-  - id: dannysteenman.iam-actions-snippets
-    uuid: b494816b-74be-404c-afb3-84967a0ac3e4
   - id: dannysteenman.aws-terraform-extension-pack
     uuid: e6180d7b-9aaf-4c5f-99b7-09ebb0095810
+  - id: dannysteenman.iam-actions-snippets
+    uuid: b494816b-74be-404c-afb3-84967a0ac3e4
   - id: dannysteenman.iam-service-principal-snippets
     uuid: 6652a990-aefe-40f4-97d5-1c0f699f8118
   - id: eamodio.gitlens
