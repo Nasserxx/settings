@@ -1,314 +1,54 @@
 alefragnani.Bookmarks: '{"Bookmarks.version":"13.5.0"}'
-alefragnani.project-manager: '{"project-manager.version":"12.8.0","recent":"[\"hesscharge\"]"}'
+alefragnani.project-manager: '{"project-manager.version":"12.8.0","recent":"[\"beve\",\"ImageCraft\"]"}'
 amazonwebservices.aws-toolkit-vscode: '{"telemetryClientId":"b0afc62a-63d6-4a2e-98a7-a0dab0a050b1","isExtensionFirstUse":false,"lastOsStartTime":1746698590129,"samAndCfnSchemaVersion":"W/\"e173aaa75187c415e8d84efef4de58bc77c62d592ce8059a291a65175d0de563\"","devfileSchemaVersion":"v2.3.0","globalsMostRecentVersion":"3.59.0","aws.notifications":{"startUp":{"payload":{"schemaVersion":"1.x","notifications":[]},"eTag":"\"5bdb28c6f8572180bd1bd2a343fe05d8\""},"emergency":{"payload":{"schemaVersion":"1.x","notifications":[]},"eTag":"\"5bdb28c6f8572180bd1bd2a343fe05d8\""},"dismissed":[],"newlyReceived":[]},"telemetryId":"[[\"us-east-1:820fd6d1-95c0-4ca4-bffb-3f01d32da842\",\"us-east-1:622b0cc5-149e-c429-ae3b-196caf4b4240\"]]","auth.profiles":{"profile:hess":{"type":"iam","subtype":"unknown","name":"hess","metadata":{"connectionState":"unauthenticated"}},"profile:default":{"type":"iam","subtype":"unknown","name":"default","metadata":{"connectionState":"valid"}}},"auth.currentProfileId":"profile:default","region":["eu-central-1"],"lastExtensionVersion":"3.59.0","aws.toolkit.amazonqInstall.dismissed":true,"awsTelemetryNoticeVersionAck":2}'
 antfu.vite: '{"port":5173}'
 Dart-Code.dart-code: '{"experiment-sdkDaps":37,"experiment-sdkDaps-hasActivated":true,"lastSeenVersion":"3.106.0","ignoredExtensionRecommendations":["Google.arb-editor"]}'
-eamodio.gitlens: "{\"gitlens:premium:subscription\":{\"v\":1,\"data\":{\"plan\"\
-  :{\"actual\":{\"id\":\"community-with-account\",\"name\":\"GitLens
-  Community\",\"bundle\":false,\"cancelled\":false,\"trialReactivationCount\":0,\
-  \"nextTrialOptInDate\":\"2025-06-13T00:00:00.000Z\",\"startedOn\":\"2020-05-0\
-  5T22:08:44.508Z\"},\"effective\":{\"id\":\"community-with-account\",\"name\":\
-  \"GitLens
-  Community\",\"bundle\":false,\"cancelled\":false,\"trialReactivationCount\":0,\
-  \"nextTrialOptInDate\":\"2025-06-13T00:00:00.000Z\",\"startedOn\":\"2020-05-0\
-  5T22:08:44.508Z\"}},\"state\":4,\"previewTrial\":{\"startedOn\":\"1970-01-01T\
-  00:00:00.000Z\",\"expiresOn\":\"1970-01-01T00:00:00.000Z\"},\"account\":{\"id\
-  \":\"ab0a0691-e00b-4c55-956d-336f383cfb9b\",\"name\":\"Nasser\",\"email\":\"n\
-  assern502@yahoo.com\",\"verified\":true,\"createdOn\":\"2020-05-05T22:08:44.5\
-  08Z\"},\"activeOrganization\":{\"id\":\"65c5a5c02cebeb8c98216bf9\",\"name\":\
-  \"nassern502's
-  organization\",\"role\":\"owner\"},\"lastValidatedAt\":1746775012711}},\"gitl\
-  ens:version\":\"17.0.3\",\"gitlens:synced:version\":\"17.0.3\",\"gitlens:laun\
-  chpad:indicator:hasLoaded\":true,\"gitlens:repoVisibility\":[[\"c:/Workspace/\
-  Hess/XFFCMPushNotificationsSample\",{\"visibility\":\"public\",\"timestamp\":\
-  1738666783595,\"remotesHash\":\"github.com/jfversluis/XFFCMPushNotificationsS\
-  ample\"}],[\"c:/Workspace/Hess/beve_cloudsync\",{\"visibility\":\"private\",\
-  \"timestamp\":1739785986476,\"remotesHash\":\"github.com/Nasserxx/beve_clouds\
-  ync\"}],[\"c:/Workspace/Hess/beve-app\",{\"visibility\":\"private\",\"timesta\
-  mp\":1741338259454,\"remotesHash\":\"github.com/Nasserxx/beve-app\"}],[\"c:/U\
-  sers/Nasser/dev/flutter\",{\"visibility\":\"public\",\"timestamp\":1741533419\
-  912,\"remotesHash\":\"github.com/flutter/flutter\"}],[\"c:/temp/commit-history\
-  \",{\"visibility\":\"private\",\"timestamp\":1743209109703,\"remotesHash\":\"\
-  github.com/Nasserxx/temp\"}],[\"c:/Workspace/nasserxx.github.io\",{\"visibili\
-  ty\":\"public\",\"timestamp\":1743253470899,\"remotesHash\":\"github.com/Nass\
-  erxx/nasserxx.github.io\"}],[\"c:/Workspace/Hess/hesscharge\",{\"visibility\":\
-  \"private\",\"timestamp\":1745069776185,\"remotesHash\":\"github.com/Nasserxx\
-  /beve\"}]],\"gitlens:usages\":{\"homeView:shown\":{\"count\":2,\"firstUsedAt\
-  \":1737225238959,\"lastUsedAt\":1737225576649},\"fileHistoryView:shown\":{\"c\
-  ount\":5,\"firstUsedAt\":1737225564245,\"lastUsedAt\":1738223088997},\"search\
-  AndCompareView:shown\":{\"count\":5,\"firstUsedAt\":1737225564246,\"lastUsedAt\
-  \":1738223088998},\"launchpadView:shown\":{\"count\":3,\"firstUsedAt\":173722\
-  5589573,\"lastUsedAt\":1740842493751},\"draftsView:shown\":{\"count\":3,\"fir\
-  stUsedAt\":1737225590998,\"lastUsedAt\":1740842493751},\"workspacesView:shown\
-  \":{\"count\":3,\"firstUsedAt\":1737225591579,\"lastUsedAt\":1740842493751},\
-  \"command:gitlens.plus.continueFeaturePreview:executed\":{\"count\":2,\"first\
-  UsedAt\":1737225624176,\"lastUsedAt\":1737225624180},\"graphView:shown\":{\"c\
-  ount\":10,\"firstUsedAt\":1737225992735,\"lastUsedAt\":1740497530849},\"graph\
-  DetailsView:shown\":{\"count\":8,\"firstUsedAt\":1737225992990,\"lastUsedAt\"\
-  :1740497530851},\"command:gitlens.toggleFileBlame:executed\":{\"count\":22,\"\
-  firstUsedAt\":1737226953204,\"lastUsedAt\":1740993382311},\"command:gitlens.s\
-  howQuickCommitFileDetails:executed\":{\"count\":12,\"firstUsedAt\":1737383443\
-  282,\"lastUsedAt\":1740393525933},\"command:gitlens.gitCommands:executed\":{\
-  \"count\":18,\"firstUsedAt\":1737383443283,\"lastUsedAt\":1741404227643},\"co\
-  mmand:gitlens.plus.login:executed\":{\"count\":3,\"firstUsedAt\":173738435622\
-  3,\"lastUsedAt\":1740842499235},\"command:gitlens.showAccountView:executed\":{\
-  \"count\":2,\"firstUsedAt\":1737384356224,\"lastUsedAt\":1740842493229},\"com\
-  mand:gitlens.diffWithPrevious:executed\":{\"count\":41,\"firstUsedAt\":173738\
-  4476016,\"lastUsedAt\":1738223152333},\"command:gitlens.diffWith:executed\":{\
-  \"count\":94,\"firstUsedAt\":1737384476016,\"lastUsedAt\":1744098838493},\"co\
-  mmand:gitlens.openWalkthrough:executed\":{\"count\":4,\"firstUsedAt\":1737384\
-  995322,\"lastUsedAt\":1737385014530},\"home:walkthrough:dismissed\":{\"count\
-  \":1,\"firstUsedAt\":1737385014523,\"lastUsedAt\":1737385014523},\"rebaseEdit\
-  or:shown\":{\"count\":14,\"firstUsedAt\":1737451497775,\"lastUsedAt\":1737454\
-  833286},\"command:gitlens.graph.switchToAnotherBranch:executed\":{\"count\":1,\
-  \"firstUsedAt\":1737456654513,\"lastUsedAt\":1737456654513},\"lineHistoryView\
-  :shown\":{\"count\":1,\"firstUsedAt\":1737456742686,\"lastUsedAt\":1737456742\
-  686},\"command:gitlens.showInDetailsView:executed\":{\"count\":1,\"firstUsedAt\
-  \":1737456772520,\"lastUsedAt\":1737456772520},\"command:gitlens.views.openCh\
-  angesWithWorking:executed\":{\"count\":4,\"firstUsedAt\":1737456788711,\"last\
-  UsedAt\":1737457010372},\"command:gitlens.diffWithWorking:executed\":{\"count\
-  \":4,\"firstUsedAt\":1737456788712,\"lastUsedAt\":1737457010372},\"command:gi\
-  tlens.views.openChanges:executed\":{\"count\":5,\"firstUsedAt\":1737456846517,\
-  \"lastUsedAt\":1737457535922},\"command:gitlens.showGraph:executed\":{\"count\
-  \":5,\"firstUsedAt\":1738015728056,\"lastUsedAt\":1741084591644},\"command:gi\
-  tlens.showGraphView:executed\":{\"count\":2,\"firstUsedAt\":1738015728056,\"l\
-  astUsedAt\":1738015731040},\"command:gitlens.showCommitInView:executed\":{\"c\
-  ount\":1,\"firstUsedAt\":1738069578287,\"lastUsedAt\":1738069578287},\"comman\
-  d:gitlens.showInCommitGraph:executed\":{\"count\":4,\"firstUsedAt\":173806962\
-  8983,\"lastUsedAt\":1741084591644},\"command:gitlens.openFileHistory:executed\
-  \":{\"count\":2,\"firstUsedAt\":1738222976903,\"lastUsedAt\":1738223088370},\
-  \"command:gitlens.diffLineWithPrevious:executed\":{\"count\":2,\"firstUsedAt\
-  \":1738223079858,\"lastUsedAt\":1741880081004},\"commitDetailsView:shown\":{\
-  \"count\":1,\"firstUsedAt\":1738223088400,\"lastUsedAt\":1738223088400},\"tim\
-  elineView:shown\":{\"count\":1,\"firstUsedAt\":1738223088408,\"lastUsedAt\":1\
-  738223088408},\"command:gitlens.stashSaveFiles:executed\":{\"count\":4,\"firs\
-  tUsedAt\":1738770715860,\"lastUsedAt\":1739985677762},\"command:gitlens.plus.\
-  reactivateProTrial:executed\":{\"count\":4,\"firstUsedAt\":1740842515042,\"la\
-  stUsedAt\":1740842527436},\"command:gitlens.diffWithRevision:executed\":{\"co\
-  unt\":5,\"firstUsedAt\":1740842546453,\"lastUsedAt\":1740842635966},\"command\
-  :gitlens.diffFolderWithRevision:executed\":{\"count\":1,\"firstUsedAt\":17408\
-  42665506,\"lastUsedAt\":1740842665506},\"command:gitlens.showQuickCommitDetai\
-  ls:executed\":{\"count\":1,\"firstUsedAt\":1741404227307,\"lastUsedAt\":17414\
-  04227307},\"command:gitlens.diffLineWithWorking:executed\":{\"count\":1,\"fir\
-  stUsedAt\":1741880122701,\"lastUsedAt\":1741880122701},\"command:gitlens.show\
-  Launchpad:executed\":{\"count\":1,\"firstUsedAt\":1743537367702,\"lastUsedAt\
-  \":1743537367702},\"command:gitlens.views.scm.grouped.welcome.dismiss:executed\
-  \":{\"count\":1,\"firstUsedAt\":1744059181965,\"lastUsedAt\":1744059181965},\
-  \"commitsView:shown\":{\"count\":8,\"firstUsedAt\":1744059183136,\"lastUsedAt\
-  \":1746777423145}},\"gitlens:plus:preview:graph:usages\":[{\"startedOn\":\"20\
-  25-01-18T18:40:24.177Z\",\"expiresOn\":\"2025-01-19T18:40:24.177Z\"}],\"gitle\
-  ns:gk:ab0a0691-e00b-4c55-956d-336f383cfb9b:checkin\":{\"v\":1,\"timestamp\":1\
-  746775011020,\"data\":{\"user\":{\"id\":\"ab0a0691-e00b-4c55-956d-336f383cfb9b\
-  \",\"name\":\"Nasser\",\"email\":\"nassern502@yahoo.com\",\"status\":\"activa\
-  ted\",\"createdDate\":\"2020-05-05T22:08:44.508Z\"},\"licenses\":{\"paidLicen\
-  ses\":{},\"effectiveLicenses\":{}},\"nextOptInDate\":\"2025-06-13T00:00:00.00\
-  0Z\"}},\"gitlens:gk:ab0a0691-e00b-4c55-956d-336f383cfb9b:organizations\":{\"v\
-  \":1,\"timestamp\":1746775012707,\"data\":[{\"id\":\"65c5a5c02cebeb8c98216bf9\
-  \",\"name\":\"nassern502's
-  organization\",\"role\":\"owner\"}]},\"gitlens:integrations:configured\":{\"g\
-  ithub\":[{\"integrationId\":\"github\",\"expiresAt\":\"2059-01-30T04:23:16.96\
-  4Z\",\"scopes\":\"repo,read:user,user:email\",\"cloud\":true}],\"gitlab\":[],\
-  \"azureDevOps\":[],\"bitbucket\":[],\"jira\":[]},\"gitlens:home:sections:coll\
-  apsed\":[\"integrationBanner\",\"newHomePreview\"],\"gitlens:avatars\":[[\"80\
-  c6fcb6ff41338d8df6e33ac239cdc2:64\",{\"uri\":\"https://camo.githubusercontent\
-  .com/0d33b37dc7dabd47866c8f397e6054b20097b4799fbc2408d3d0954934d14843/6874747\
-  0733a2f2f322e67726176617461722e636f6d2f6176617461722f383063366663623666663431\
-  33333864386466366533336163323339636463323f643d6874747073253341253246253246676\
-  9746875622e6769746875626173736574732e636f6d253246696d616765732532466772617661\
-  7461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634\",\
-  \"timestamp\":1737384431379}],[\"6bcc2cc66acd005508fac9835a9ecf94:64\",{\"uri\
-  \":\"https://camo.githubusercontent.com/f8599bd6559cb6ffc82d8df13a2b40843c197\
-  7cb1f59a6255fc6a834af1236c0/68747470733a2f2f302e67726176617461722e636f6d2f617\
-  6617461722f36626363326363363661636430303535303866616339383335613965636639343f\
-  643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6\
-  d253246696d6167657325324667726176617461727325324667726176617461722d757365722d\
-  3432302e706e6726723d6726733d3634\",\"timestamp\":1737384386797}],[\"6bcc2cc66\
-  acd005508fac9835a9ecf94:32\",{\"uri\":\"https://camo.githubusercontent.com/51\
-  7cf362a062bc06511fe245e2c43912d5d09291dc9c88a97f0f9ccefb1392b2/68747470733a2f\
-  2f302e67726176617461722e636f6d2f6176617461722f3662636332636336366163643030353\
-  5303866616339383335613965636639343f643d68747470732533412532462532466769746875\
-  622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727\
-  325324667726176617461722d757365722d3432302e706e6726723d6726733d3332\",\"times\
-  tamp\":1737384465096}],[\"351e6cc8f0cc975d868b6c226c1db741:32\",{\"uri\":\"ht\
-  tps://camo.githubusercontent.com/2b04c92fa2a89a750e51380c7ca7c3263d64f333c042\
-  596db22bc08ffb591f7b/68747470733a2f2f322e67726176617461722e636f6d2f6176617461\
-  722f33353165366363386630636339373564383638623663323236633164623734313f643d687\
-  47470732533412532462532466769746875622e6769746875626173736574732e636f6d253246\
-  696d6167657325324667726176617461727325324667726176617461722d757365722d3432302\
-  e706e6726723d6726733d3332\",\"timestamp\":1737384380708}],[\"21600b13ad98037f\
-  281752c78fc5d264:32\",{\"uri\":\"https://avatars.githubusercontent.com/u/8111\
-  926?s%3D32%26v%3D4\",\"timestamp\":1737384410746}],[\"80c6fcb6ff41338d8df6e33\
-  ac239cdc2:32\",{\"uri\":\"https://camo.githubusercontent.com/ca9ad4a682f99ce8\
-  a9e7066e48f7b978c02840e9b302c5ed580b9a96c56ae02a/68747470733a2f2f322e67726176\
-  617461722e636f6d2f6176617461722f383063366663623666663431333338643864663665333\
-  36163323339636463323f643d68747470732533412532462532466769746875622e6769746875\
-  626173736574732e636f6d253246696d616765732532466772617661746172732532466772617\
-  6617461722d757365722d3432302e706e6726723d6726733d3332\",\"timestamp\":1737384\
-  410921}],[\"c9d5abcfac11435eae5805cd24b6e942:64\",{\"uri\":\"https://camo.git\
-  hubusercontent.com/574bda6e0e6a4d4a4fa6289b0cad18ed69f5d3f81fa3807470cfae8510\
-  d32ccd/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f6339643561\
-  6263666163313134333565616535383035636432346236653934323f643d68747470732533412\
-  532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325\
-  324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6\
-  726733d3634\",\"timestamp\":1737384389744}],[\"f94c5746f478ec6c3d2de252d34eeb\
-  67:64\",{\"uri\":\"https://camo.githubusercontent.com/9b797fce2fdc5f743e5157f\
-  adc82ba39dd6855b74f5968fbaaab2334793d3b90/68747470733a2f2f302e677261766174617\
-  22e636f6d2f6176617461722f6639346335373436663437386563366333643264653235326433\
-  3465656236373f643d68747470732533412532462532466769746875622e67697468756261737\
-  36574732e636f6d253246696d6167657325324667726176617461727325324667726176617461\
-  722d757365722d3432302e706e6726723d6726733d3634\",\"timestamp\":1737384400455}\
-  ],[\"351e6cc8f0cc975d868b6c226c1db741:64\",{\"uri\":\"https://camo.githubuser\
-  content.com/ae9bf3b8c751afc1669f110e71f171ea6f08f0fa1ee2f5cad78c6ecff293db0d/\
-  68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f33353165366363386\
-  630636339373564383638623663323236633164623734313f643d687474707325334125324625\
-  32466769746875622e6769746875626173736574732e636f6d253246696d61676573253246677\
-  26176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d\
-  3634\",\"timestamp\":1737384411452}],[\"21600b13ad98037f281752c78fc5d264:64\"\
-  ,{\"uri\":\"https://avatars.githubusercontent.com/u/8111926?s%3D64%26v%3D4\",\
-  \"timestamp\":1737384414341}],[\"8d16fac1aaed53c46adfb9871618f7f6:64\",{\"uri\
-  \":\"https://camo.githubusercontent.com/be3cdd6c59cabc86f4b9ca3f3e8da15793307\
-  48a3f46ba804e9645ab55c01fa2/68747470733a2f2f322e67726176617461722e636f6d2f617\
-  6617461722f38643136666163316161656435336334366164666239383731363138663766363f\
-  643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6\
-  d253246696d6167657325324667726176617461727325324667726176617461722d757365722d\
-  3432302e706e6726723d6726733d3634\",\"timestamp\":1737450954496}],[\"c9d5abcfa\
-  c11435eae5805cd24b6e942:32\",{\"uri\":\"https://camo.githubusercontent.com/7a\
-  f14892c8f8abcde0036278efb3000acf9e44dac7c167082eff67b06334c11e/68747470733a2f\
-  2f302e67726176617461722e636f6d2f6176617461722f6339643561626366616331313433356\
-  5616535383035636432346236653934323f643d68747470732533412532462532466769746875\
-  622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727\
-  325324667726176617461722d757365722d3432302e706e6726723d6726733d3332\",\"times\
-  tamp\":1737451498550}],[\"c043b32d5d26228e8ec31032c87e4c3c:32\",{\"uri\":\"ht\
-  tps://avatars.githubusercontent.com/u/46873909?size%3D32\",\"timestamp\":0}],[\
-  \"f94c5746f478ec6c3d2de252d34eeb67:32\",{\"uri\":\"https://camo.githubusercon\
-  tent.com/33ef228f27f13f42c3580454c60308c9148350811b1101e091b744d739aa4b25/687\
-  47470733a2f2f302e67726176617461722e636f6d2f6176617461722f66393463353734366634\
-  373865633663336432646532353264333465656236373f643d687474707325334125324625324\
-  66769746875622e6769746875626173736574732e636f6d253246696d61676573253246677261\
-  76617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3332\
-  \",\"timestamp\":1737451859177}],[\"4b708f84b66915c1b84df484d6e3b57a:32\",{\"\
-  uri\":\"https://avatars.githubusercontent.com/u/908314?s%3D32%26v%3D4\",\"tim\
-  estamp\":1737451859444}],[\"7256361593edbeabb4d0a31b0a3b9e8c:32\",{\"uri\":\"\
-  https://camo.githubusercontent.com/7ece9af2d98f43e39e8aab4754d8cac091859a402d\
-  29f0e4231a3d3e1128bdc1/68747470733a2f2f312e67726176617461722e636f6d2f61766174\
-  61722f37323536333631353933656462656162623464306133316230613362396538633f643d6\
-  8747470732533412532462532466769746875622e6769746875626173736574732e636f6d2532\
-  46696d6167657325324667726176617461727325324667726176617461722d757365722d34323\
-  02e706e6726723d6726733d3332\",\"timestamp\":1737451859722}],[\"d6d43acdf72125\
-  95224a9623d6ef04fa:32\",{\"uri\":\"https://camo.githubusercontent.com/6e9bc15\
-  9c839d9d0c6d5aeecde92f57749a8986c1a6b26630561f17c1945b5b4/68747470733a2f2f322\
-  e67726176617461722e636f6d2f6176617461722f643664343361636466373231323539353232\
-  34613936323364366566303466613f643d68747470732533412532462532466769746875622e6\
-  769746875626173736574732e636f6d253246696d616765732532466772617661746172732532\
-  4667726176617461722d757365722d3432302e706e6726723d6726733d3332\",\"timestamp\
-  \":1737451860141}],[\"8d16fac1aaed53c46adfb9871618f7f6:32\",{\"uri\":\"https:\
-  //camo.githubusercontent.com/3d621030e3e9900596e4cc82a1c19e0661362a906ccc308c\
-  4a84d0389a4f48ab/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f\
-  38643136666163316161656435336334366164666239383731363138663766363f643d6874747\
-  0732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d\
-  6167657325324667726176617461727325324667726176617461722d757365722d3432302e706\
-  e6726723d6726733d3332\",\"timestamp\":1737451860380}],[\"001a497b5dfc0c90d5ab\
-  129db462c5c8:64\",{\"uri\":\"https://camo.githubusercontent.com/91def74b3281f\
-  3c7a02283e4790ab8179b2d5ea75ca6891c120c97d57dfa6d8b/68747470733a2f2f302e67726\
-  176617461722e636f6d2f6176617461722f303031613439376235646663306339306435616231\
-  32396462343632633563383f643d68747470732533412532462532466769746875622e6769746\
-  875626173736574732e636f6d253246696d616765732532466772617661746172732532466772\
-  6176617461722d757365722d3432302e706e6726723d6726733d3634\",\"timestamp\":1737\
-  454794176}],[\"4b708f84b66915c1b84df484d6e3b57a:64\",{\"uri\":\"https://avata\
-  rs.githubusercontent.com/u/908314?s%3D64%26v%3D4\",\"timestamp\":173745664544\
-  8}],[\"970a22642a41250a5a637500679aa5c3:64\",{\"uri\":\"https://avatars.githu\
-  busercontent.com/u/106251752?s%3D64%26v%3D4\",\"timestamp\":1738225885596}],[\
-  \"f9d4d4211d7956ce3e07e83df0889731:64\",{\"uri\":\"https://avatars.githubuser\
-  content.com/u/939291?s%3D64%26v%3D4\",\"timestamp\":1738666818531}],[\"001a49\
-  7b5dfc0c90d5ab129db462c5c8:32\",{\"uri\":\"https://camo.githubusercontent.com\
-  /bc254034edc50c8b065a1fc941a746771be09ce1902605b7806ed64ffe7d0d26/68747470733\
-  a2f2f302e67726176617461722e636f6d2f6176617461722f3030316134393762356466633063\
-  3930643561623132396462343632633563383f643d68747470732533412532462532466769746\
-  875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461\
-  727325324667726176617461722d757365722d3432302e706e6726723d6726733d3332\",\"ti\
-  mestamp\":1739113350147}],[\"7256361593edbeabb4d0a31b0a3b9e8c:64\",{\"uri\":\
-  \"https://camo.githubusercontent.com/45721f04535990ed7051573caa3e075a745853f8\
-  da6a13bacf8d60011ce8dd5f/68747470733a2f2f312e67726176617461722e636f6d2f617661\
-  7461722f37323536333631353933656462656162623464306133316230613362396538633f643\
-  d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d25\
-  3246696d6167657325324667726176617461727325324667726176617461722d757365722d343\
-  2302e706e6726723d6726733d3634\",\"timestamp\":1740060384719}],[\"da1ed0c853a1\
-  a98fe6de70cdd71417cf:64\",{\"uri\":\"https://camo.githubusercontent.com/b3690\
-  167e8755f4703ef95543a5db4d70fa8df6831d4e6c7b5ccaf3f4dcd185a/68747470733a2f2f3\
-  22e67726176617461722e636f6d2f6176617461722f6461316564306338353361316139386665\
-  3664653730636464373134313763663f643d68747470732533412532462532466769746875622\
-  e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325\
-  324667726176617461722d757365722d3432302e706e6726723d6726733d3634\",\"timestamp\
-  \":1741338337023}],[\"069afa6ced3965ffbb8dc6bcdd5bdbcf:64\",{\"uri\":\"https:\
-  //avatars.githubusercontent.com/u/1227763?s%3D64%26v%3D4\",\"timestamp\":1741\
-  533420449}],[\"8393b8cb5ce8371dcfe93f5d4f76e90a:64\",{\"uri\":\"https://avata\
-  rs.githubusercontent.com/u/551196?s%3D64%26v%3D4\",\"timestamp\":174153582661\
-  8}]],\"gitlens:home:walkthrough:dismissed\":true,\"gitlens:product:config\":{\
-  \"data\":{\"promos\":[{\"key\":\"gkholiday\",\"code\":\"GKHOLIDAY\",\"states\
-  \":[0,1,2,3,4,5],\"expiresOn\":1742194740000,\"startsOn\":1738825140000,\"con\
-  tent\":{\"quickpick\":{\"detail\":\"$(star-full) Save up to 80% on GitLens
-  Pro\"},\"webview\":{\"info\":{\"html\":\"<b>Save up to 80%</b> on GitLens
-  Pro\"},\"link\":{\"html\":\"<b>Save up to 80%</b> on GitLens
-  Pro\",\"title\":\"Upgrade now and save up to 80% on GitLens
-  Pro\"}}},\"percentile\":50},{\"key\":\"pro50\",\"states\":[0,1,2,3,4,5],\"loc\
-  ations\":[\"home\",\"account\",\"badge\",\"gate\"],\"content\":{\"quickpick\"\
-  :{\"detail\":\"$(star-full) Save 50% on GitLens
-  Pro\"},\"webview\":{\"info\":{\"html\":\"<b>Save 50%</b> on GitLens
-  Pro\"},\"link\":{\"html\":\"<b>Save 50%</b> on GitLens
-  Pro\",\"title\":\"Upgrade now and save 50% on GitLens
-  Pro\"}}}}]},\"v\":1,\"timestamp\":1746777467535},\"gitlens:launchpad:indicato\
-  r:hasInteracted\":\"2025-04-01T19:56:07.707Z\",\"gitlens:views:scm:grouped:we\
-  lcome:dismissed\":true}"
-leodevbro.blockman: '{"blockman_data_iicounter":"2","blockman_data_iicounter2":"2","blockman_data_iicounter3":"2","blockman_data_atInstallEventUserAcceptedToChangeVSCodeSettings":"true"}'
-mhutchie.git-graph: '{"lastKnownGitPath":"C:\\Program Files\\Git\\cmd\\git.exe"}'
+mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
 mongodb.mongodb-vscode: '{"GLOBAL_ANONYMOUS_ID":"6746e871-7e39-424c-bfb9-128d16a6c74c","GLOBAL_HAS_BEEN_SHOWN_INITIAL_VIEW":true}'
 ms-azuretools.vscode-azureresourcegroups: '{"nps/lastSessionDate":"Thu Jan 30
   2025","nps/sessionCount":10,"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.notebook.experimental.generate","config.python.analysis.enableEditableInstalls","config.python.analysis.enableExperimentalServer","config.python.analysis.supportRestructuredText","config.python.locator","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilotchat.ruffDiagnosticsCookbookcf","copilot_ci","CppTools1","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pylanceConvertFormatString","pylanceGenerateDocstring","pylanceGenerateSymbol","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;cppperfnew:31000557;pythonrstrctxt:31112756;nativeloc2:31192216;5fd0e150:31155592;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;pythoneinst12:31285622;bgtreat:31268568;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;pythonrdcb7cf:31303019;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;generatesymbolt:31295002;convertfstringf:31295003;gendocf:31295004;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.notebook.experimental.generate":true,"config.python.analysis.enableEditableInstalls":true,"config.python.analysis.enableExperimentalServer":true,"config.python.analysis.supportRestructuredText":true,"config.python.locator":"js","config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilotchat.ruffDiagnosticsCookbook":false,"copilot_ci":true,"CppTools1":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pylanceConvertFormatString":true,"pylanceGenerateDocstring":true,"pylanceGenerateSymbol":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"nps/isCandidate":false,"nps/skipVersion":"0.10.4"}'
+ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1753348899402,"currentMonthSessions":7,"totalSessions":7},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1753348899519,"currentMonthSessions":7,"totalSessions":7},"VSCode.ABExp.FeatureData":{"features":["config.chat.editRequests","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffMaxTokens","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffNEntries","config.workbench.secondarySideBar.defaultVisibility","copilot_ci","editor.inlineSuggest.experimental.triggerCommandOnProviderChangecf","extensions.gallery.useLatestApi","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","test-ai-12cf","testaa123","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;6074i472:31201624;9064b325:31222308;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;usemarketplace:31343026;nes-diff-11:31337487;testaa123:31335226;6abeh943:31336334;yijiwantestdri0626-t:31336930;0927b901:31350571;ji9b5146:31348712;ja2e5747:31349955;","configs":[{"Id":"vscode","Parameters":{"config.chat.editRequests":"hover","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffMaxTokens":1000,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffNEntries":25,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilot_ci":true,"editor.inlineSuggest.experimental.triggerCommandOnProviderChange":false,"extensions.gallery.useLatestApi":"marketplace","extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"test-ai-12":false,"testaa123":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
 ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1748593409852,"currentMonthSessions":5,"totalSessions":35},"vscode-docker.activity.overall":{"lastSession":1748593410012,"currentMonthSessions":5,"totalSessions":33},"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","vscode-docker.aatestcf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vscode-docker_aaflightcf:30153984;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"vscode-docker.aatest":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-docker.migrateToContainerTools.lastShown":1748593409852,"vscode-docker.container.newContainerUser":false}'
+ms-dotnettools.vscode-dotnet-runtime: '{"installed":[{"dotnetInstall":{"installId":"9.0.7~x64","version":"9.0.7","architecture":"x64","isGlobal":false,"installMode":"runtime"},"installingExtensions":["ms-dotnettools.csharp"]},{"dotnetInstall":{"installId":"8.0.18~x64","version":"8.0.18","architecture":"x64","isGlobal":false,"installMode":"runtime"},"installingExtensions":["tintoy.msbuild-project-tools"]}]}'
 ms-toolsai.jupyter: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.notebook.experimental.generate","config.python.analysis.enableEditableInstallscf","config.python.analysis.enableExperimentalServer","config.python.analysis.supportRestructuredText","config.python.locator","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonRecommendTensorboardExt","pythonTerminalEnvVarActivation","shouldUseGrpcService","validate_mi"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;962ge761:30959799;pythontbext0:30879054;pythonrstrctxt:31112756;nativeloc2:31192216;5fd0e150:31155592;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;pythoneinst12cf:31262606;bgtreat:31268568;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.notebook.experimental.generate":true,"config.python.analysis.enableEditableInstalls":false,"config.python.analysis.enableExperimentalServer":true,"config.python.analysis.supportRestructuredText":true,"config.python.locator":"js","config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonRecommendTensorboardExt":true,"pythonTerminalEnvVarActivation":true,"shouldUseGrpcService":true,"validate_mi":true}}]},"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/Nasser/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"C#"}'
-ms-vscode-remote.remote-containers: '{"localExtensions":["aaron-bond.better-comments","adrianwilczynski.asp-net-core-switcher","alefragnani.project-manager","alimozdemir.vscode-nuxt-dx-tools","antfu.browse-lite","antfu.vite","anysphere.csharp","anysphere.pyright","Arjun.swagger-viewer","arniu.sql-formatter-vscode","asciidoctor.asciidoctor-vscode","bierner.docs-view","blairleduc.net-core-starters-pack","christian-kohler.npm-intellisense","csharpier.csharpier-vscode","Dart-Code.dart-code","Dart-Code.flutter","doggy8088.netcore-editorconfiggenerator","doggy8088.netcore-snippets","EditorConfig.EditorConfig","FelixAngelov.bloc","firefox-devtools.vscode-firefox-debug","firefox.scaffold","formulahendry.dotnet","hediet.vscode-drawio","inferrinizzard.prettier-sql-vscode","ivory-lab.jenkinsfile-support","janjoerke.jenkins-pipeline-linter-connector","jchannon.csharpextensions","jesschadwick.nuget-reverse-package-search","jmrog.vscode-nuget-package-manager","jolhe.csharp-netcore-extensionpack","jorgeserrano.vscode-csharp-snippets","k--kato.docomment","lea21st.vscode-sql-formatter","marlon407.code-groovy","matijarmk.dotnet-core-commands","MellowMarshmallow.groovy","miguelsolorio.symbols","ms-azuretools.vscode-azureterraform","ms-azuretools.vscode-docker","MS-CEINTL.vscode-language-pack-de","ms-dotnettools.vscode-dotnet-runtime","ms-edgedevtools.vscode-edge-devtools","ms-mssql.data-workspace-vscode","ms-mssql.mssql","ms-mssql.sql-bindings-vscode","ms-mssql.sql-database-projects-vscode","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-wsl","ms-vscode.js-debug-nightly","ms-vscode.powershell","msjsdiag.debugger-for-chrome","mubaidr.vuejs-extension-pack","natecorkish.html-css-class-completion","Nuxt.mdc","Nuxtr.nuxtr-vscode","PKief.material-icon-theme","PrateekMahendrakar.prettyxml","redhat.vscode-yaml","ReneSaarsoo.sql-formatter-vsc","ritwickdey.LiveServer","schneiderpat.aspnet-helper","sdras.vue-vscode-snippets","sirmspencer.vscode-autohide","styled-components.vscode-styled-components","tintoy.msbuild-project-tools","tombonnike.vscode-status-bar-format-toggle","vitest.explorer","Vue.volar","woodpecker.aspNetLocResManager","xabikos.JavaScriptSnippets","ybaumes.highlight-trailing-white-spaces","Zignd.html-css-class-completion","ZixuanChen.vitest-explorer","zokugun.cron-tasks","zokugun.sync-settings","zxh404.vscode-proto3"],"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode-remote.remote-wsl: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"wsl.lastUpdateCheck":1748789571335,"extensionUsed":true}'
 ms-vscode.azure-account: '{"lastSeenSettingsCache":{"values":["ADAL","AzureCloud",""]},"nps/lastSessionDate":"Wed
   Jan 29
   2025","nps/sessionCount":9,"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonRecommendTensorboardExt","pythonTerminalEnvVarActivation","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;962ge761:30959799;pythontbext0:30879054;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonRecommendTensorboardExt":true,"pythonTerminalEnvVarActivation":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"nps/isCandidate":false,"nps/skipVersion":"0.13.0"}'
-ms-vsliveshare.vsliveshare: '{"vsliveshare-first-activation-flag":"1.0.5948","VSCode.ABExp.FeatureData":{"features":["account-aacf","authProviderPicker","followIndicator","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","nativeAuth","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","readWriteAnonymous","resyncOnMisappliedEdit","saveDirtyDocOnReadd","shouldUseGrpcService","waitForPendingEditOnDispose"],"assignmentContext":"vsliv368cf:30146710;vsrea433:30283384;vspor879:30202332;vspor708:30202333;vspor363:30204092;vslsvssav100:30294722;vsnat461:30259396;binariesv615:30325510;vsfol871:30383134;vslsresync:30385087;vsaa593cf:30376535;vs954:30425854;c4g48928:30535728;6074i472:31201624;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"authProviderPicker":true,"followIndicator":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"nativeAuth":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"readWriteAnonymous":true,"resyncOnMisappliedEdit":true,"saveDirtyDocOnReadd":true,"shouldUseGrpcService":true,"waitForPendingEditOnDispose":true}}]}}'
+Orta.vscode-jest: '{"orta.vscode-jest-6.4.4-launch":true}'
 Postman.postman-for-vscode: '{"kv-migrations":["partitionMigration"],"first-time-activation":true,"selectedRegion":"US","postman-for-vscode.workspaceRecord":{"id":"c2e86bb7-d000-4bef-a24f-6263ce87edce","name":"BillEve","visibilityStatus":"personal"},"kv-memento:9815434:619207:variable-session:collection/9815434-3f73c38a-ee22-45fc-878c-5084ea1401a7":{"values":[{"key":"baseUrl","value":"/","enabled":true}]},"kv-memento:9815434:619207:active-environment:collection/9815434-3f73c38a-ee22-45fc-878c-5084ea1401a7":null,"kv-memento:9815434:619207:variable-session:globals/fd2cc304-1b0d-472c-8055-77e572516fa4":{"values":[]},"kv-memento:9815434:619207:variable-session:environment/9815434-b2758ef9-859c-4355-a1cc-57ab5570042c":{"values":[{"key":"MYSQL_DATABASE","value":"billeve","enabled":true,"type":"default"},{"key":"MYSQL_USER","value":"billeve","enabled":true,"type":"default"},{"key":"MYSQL_PASSWORD","value":"Force.Recent.0152","enabled":true,"type":"default"},{"key":"TZ","value":"Europe/Berlin","enabled":true,"type":"default"},{"key":"BILLEVE_CORS_ORIGIN","value":"http://localhost:5000
   http://localhost:5173","enabled":true,"type":"default"},{"key":"BILLEVE_OPENAPI","value":"1","enabled":true,"type":"default"},{"key":"TENANT_DB_PASSWORD_SALT","value":"FKOyXKp7xqUP","enabled":true,"type":"default"}]},"imported-env-files":{"/c:/Workspace/Hess/hesscharge/.env":{"path":"/c:/Workspace/Hess/hesscharge/.env","branchName":"","environmentId":"9815434-b2758ef9-859c-4355-a1cc-57ab5570042c","workspaceId":"c2e86bb7-d000-4bef-a24f-6263ce87edce","userId":9815434,"teamId":619207,"importedAt":"2025-02-06T07:34:54.137Z"}}}'
-PrateekMahendrakar.prettyxml: '{"PrateekMahendrakar.prettyxml..lastUsedDate":"2025-05-29T19:01:08.252Z","PrateekMahendrakar.prettyxml.lastRatingPromptDate":"2026-01-27T22:06:41.350Z","PrateekMahendrakar.prettyxml.version":"5.2.0"}'
-redhat.vscode-yaml: '{"json-schema-key":{"https://spec.openapis.org/oas/3.1/schema/2022-10-07":{"eTag":"\"68261c4e-84c8\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\15bb3f2d37564aca9712198815ce84a2"},"https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json":{"eTag":"W/\"1cc7f22b01e584eca239b2c091e0eac0dedae62b8379a99ac280422c5535a224\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\0de41aa57ba6684e4d1a99150829d181"},"https://json.schemastore.org/pubspec.json":{"eTag":"\"80e0aebbfff8da1:0\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\374b817245728296e8e0c00580fc2339"},"https://json.schemastore.org/github-workflow.json":{"eTag":"\"80dd3467f59cdb1:0\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\e14b2c4fc8f9eec4c32ca2dee3e73c19"},"https://json.schemastore.org/workflows.json":{"eTag":"\"8047ce18b33da1:0\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\fa671816d2ff4df9ed37d0cc14e8c8ff"},"https://json.schemastore.org/dependabot-2.0.json":{"eTag":"\"8095a05cb096db1:0\"","schemaPath":"c:\\Users\\Nasser\\AppData\\Roaming\\Cursor\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\6e6516309e98b1f8d554169191975524"}}}'
+PrateekMahendrakar.prettyxml: '{"PrateekMahendrakar.prettyxml..lastUsedDate":"2025-07-29T08:18:22.823Z","PrateekMahendrakar.prettyxml.lastRatingPromptDate":"2025-07-14T16:10:53.759Z"}'
+rangav.vscode-thunder-client: '{"tc.lastd":"2025-07-14T08:26:20.961Z","tc.version-key":"2.35.3"}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
-VisualStudioExptTeam.intellicode-api-usage-examples: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.notebook.experimental.generate","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","intellicodeapiexamplesaacf","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;vsint571cf:30416761;c4g48928:30535728;5fd0e150:31155592;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.notebook.experimental.generate":true,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","intellicodeapiexamplesaa":false,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-VisualStudioExptTeam.vscodeintellicode: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","intellicodeaa","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;vsint734:30416762;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","intellicodeaa":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.11.0","status":0,"welcomeShown":true}}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.backgroundAgent","pinned":true,"visible":false,"order":-1},{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.bugbot","pinned":false,"visible":false,"order":3},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.flutterPropertyEditor","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.azure","pinned":true,"visible":false,"order":22},{"id":"workbench.view.extension.dataworkspace","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.objectExplorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.vscode-edge-devtools-view","pinned":false,"visible":false,"order":15},{"id":"workbench.view.extension.PowerShell","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":19}]'
+Vue.volar: '{"vue-welcome":"3.0.2"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.backgroundAgent","pinned":true,"visible":false,"order":-1},{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":9},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.sln_explorer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.sidebar-panel","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.thunder-client","pinned":true,"visible":false,"order":24},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.flutterPropertyEditor","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.vscode-edge-devtools-view","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.PowerShell","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":20}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.backgroundAg\
   ent\",\"themeIcon\":{\"id\":\"background-composer-view-icon\"},\"name\":\"Bac\
   kground
   Agent\",\"isBuiltin\":true,\"views\":[{\"when\":\"hasBackgroundComposerForWin\
   dow\"}]},{\"id\":\"workbench.view.explorer\",\"themeIcon\":{\"id\":\"explorer\
-  -view-icon\"},\"name\":\"Explorer\",\"isBuiltin\":true,\"views\":[{},{},{},{}\
-  ,{\"when\":\"timelineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"\
-  when\":\"notepadIsEnabled\"},{\"when\":\"config.dart.enablePub &&
-  dart-code:anyProjectLoaded\"}]},{\"id\":\"workbench.view.extension.project-ma\
-  nager\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alefragnan\
-  i.project-manager-12.8.0/images/project-manager-side-bar.svg\",\"scheme\":\"f\
-  ile\"},\"name\":\"Project
+  -view-icon\"},\"name\":\"Explorer\",\"isBuiltin\":true,\"views\":[{},{},{},{\
+  \"when\":\"notepadIsEnabled\"},{\"when\":\"timelineHasProvider\"},{\"when\":\
+  \"npm:showScriptExplorer\"},{\"when\":\"solutionExplorer.loadedFlag &&
+  solutionExplorer.viewInExplorer\"},{},{\"when\":\"config.dart.enablePub &&
+  dart-code:anyProjectLoaded\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\
+  \":{\"id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"vie\
+  ws\":[{}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-cont\
+  rol-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
+  scm.historyProviderCount !=
+  '0'\"}]},{\"id\":\"workbench.view.extension.project-manager\",\"iconUrl\":{\"\
+  $mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alefragnani.project-manager-12.8.\
+  0-universal/images/project-manager-side-bar.svg\",\"scheme\":\"file\"},\"name\
+  \":\"Project
   Manager\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"projectManager.canSho\
   wTreeViewGit\"},{\"when\":\"projectManager.canShowTreeViewSVN\"},{\"when\":\"\
   projectManager.canShowTreeViewAny\"},{\"when\":\"projectManager.canShowTreeVi\
   ewMercurial\"},{\"when\":\"projectManager.canShowTreeViewVSCode\"},{}]},{\"id\
-  \":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"na\
-  me\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.s\
-  cm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
-  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
-  scm.providerCount != '0'\"},{},{\"when\":\"scm.providerCount &&
-  scm.providerCount !=
-  '0'\"}]},{\"id\":\"workbench.view.bugbot\",\"themeIcon\":{\"id\":\"bug\"},\"n\
-  ame\":\"Bug
-  Finder\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.debug\",\
-  \"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"Run and
-  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  \":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\
+  \"Run and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
   'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
@@ -321,149 +61,144 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.backgroundAg\
   jsDebugHasExcludedCallers && debugType ==
   'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"inDebugMode
   && debugType == 'firefox'\"},{\"when\":\"inDebugMode && debugType ==
-  'firefox'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remo\
-  te-explorer-view-icon\"},\"name\":\"Remote
-  Explorer\",\"isBuiltin\":true,\"views\":[{\"when\":\"!hideConnectCommands\"},{\
-  \"when\":\"true\"},{\"when\":\"remote-containers:showDetails &&
-  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
-  ench.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\
-  \":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionV\
-  iews\"},{\"when\":\"searchExtensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\
-  \":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount
-  >
+  'firefox'\"},{\"when\":\"debugType ==
+  'dotnet-meteor.debugger'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\"\
+  :{\"id\":\"remote-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  ns\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\
+  \"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extension.test\",\"\
+  themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":tr\
+  ue,\"views\":[{\"when\":\"testing.providerCount >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"}]},{\"id\":\"workbench.view.extension.flutter\",\"iconUrl\":{\"$mid\":1,\"\
-  path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.110.0/media/icons/side\
-  bar/flutter.svg\",\"scheme\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\":fal\
-  se,\"views\":[{\"when\":\"dart-code:anyFlutterProjectLoaded &&
+  \"}]},{\"id\":\"workbench.view.extension.bookmarks\",\"iconUrl\":{\"$mid\":1,\
+  \"path\":\"%%EXTENSION_DATA_PATH%%/alefragnani.bookmarks-13.5.0-universal/ima\
+  ges/bookmark-activity-bar.svg\",\"scheme\":\"file\"},\"name\":\"Bookmarks\",\
+  \"isBuiltin\":false,\"views\":[{},{}]},{\"id\":\"workbench.view.extension.sln\
+  _explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/fernan\
+  doescolar.vscode-solution-explorer-0.9.1-universal/images/activity-icon.png\",\
+  \"scheme\":\"file\"},\"name\":\"Solution\",\"isBuiltin\":false,\"views\":[{\"\
+  when\":\"solutionExplorer.loadedFlag &&
+  solutionExplorer.viewInActivityBar\"}]},{\"id\":\"workbench.view.extension.mo\
+  ngoDB\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/mongodb.mo\
+  ngodb-vscode-1.13.3-universal/images/sidebar-leaf.svg\",\"scheme\":\"file\"},\
+  \"name\":\"MongoDB\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.mdb.sh\
+  owMongoDBConnectionExplorer\"},{\"when\":\"config.mdb.showMongoDBPlaygrounds\
+  \"},{\"when\":\"config.mdb.showMongoDBHelpExplorer\"}]},{\"id\":\"workbench.v\
+  iew.extension.sidebar-panel\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_\
+  DATA_PATH%%/postman.postman-for-vscode-1.15.0-universal/resources/postman-whi\
+  te.svg\",\"scheme\":\"file\"},\"name\":\"Postman\",\"isBuiltin\":false,\"views\
+  \":[{}]},{\"id\":\"workbench.view.extension.thunder-client\",\"name\":\"Thund\
+  er
+  Client\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.flutter\",\"\
+  iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-\
+  3.114.2-universal/media/icons/sidebar/flutter.svg\",\"scheme\":\"file\"},\"na\
+  me\":\"Flutter\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlut\
+  terProjectLoaded &&
   dart-code:flutterSidebarSupported\"},{\"when\":\"dart-code:anyFlutterProjectL\
   oaded\"}]},{\"id\":\"workbench.view.extension.flutterPropertyEditor\",\"iconU\
-  rl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.110\
-  .0/media/icons/sidebar/property_editor.svg\",\"scheme\":\"file\"},\"name\":\"\
-  Flutter Property
+  rl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.114\
+  .2-universal/media/icons/sidebar/property_editor.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Flutter Property
   Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProje\
   ctLoaded &&
   dart-code:flutterPropertyEditorSupported\"}]},{\"id\":\"workbench.view.extens\
   ion.sidebarDevToolsContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION\
-  _DATA_PATH%%/dart-code.dart-code-3.110.0/media/icons/sidebar/devtools.svg\",\
-  \"scheme\":\"file\"},\"name\":\"Flutter
-  DevTools\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experimenta\
-  lSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
-  dart-code:devToolsSidebar.cpu-profiler\"},{\"when\":\"config.dart.experimenta\
-  lSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
-  dart-code:devToolsSidebar.memory\"},{\"when\":\"config.dart.experimentalSideb\
-  arDevTools && dart-code:anyFlutterProjectLoaded &&
-  dart-code:devToolsSidebar.performance\"},{\"when\":\"config.dart.experimental\
-  SidebarDevTools && dart-code:anyFlutterProjectLoaded &&
-  dart-code:devToolsSidebar.network\"},{\"when\":\"config.dart.experimentalSide\
-  barDevTools && dart-code:anyFlutterProjectLoaded &&
+  _DATA_PATH%%/dart-code.dart-code-3.114.2-universal/media/icons/sidebar/devtoo\
+  ls.svg\",\"scheme\":\"file\"},\"name\":\"Flutter
+  DevTools\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPro\
+  jectLoaded &&
+  dart-code:devToolsSidebar.cpu-profiler\"},{\"when\":\"dart-code:anyFlutterPro\
+  jectLoaded &&
+  dart-code:devToolsSidebar.memory\"},{\"when\":\"dart-code:anyFlutterProjectLo\
+  aded &&
+  dart-code:devToolsSidebar.performance\"},{\"when\":\"dart-code:anyFlutterProj\
+  ectLoaded &&
+  dart-code:devToolsSidebar.network\"},{\"when\":\"dart-code:anyFlutterProjectL\
+  oaded &&
   dart-code:devToolsSidebar.logging\"}]},{\"id\":\"workbench.view.extension.sid\
   ebarDevToolsInspectorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSI\
-  ON_DATA_PATH%%/dart-code.dart-code-3.110.0/media/icons/sidebar/inspector.svg\
-  \",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
-  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experiment\
-  alSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
+  ON_DATA_PATH%%/dart-code.dart-code-3.114.2-universal/media/icons/sidebar/insp\
+  ector.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
+  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPr\
+  ojectLoaded &&
   dart-code:devToolsSidebar.inspector\"}]},{\"id\":\"workbench.view.extension.s\
   idebarDevToolsDeepLinksContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTEN\
-  SION_DATA_PATH%%/dart-code.dart-code-3.110.0/media/icons/sidebar/deep_links.s\
-  vg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
-  Links\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experimentalSi\
-  debarDevTools && dart-code:anyFlutterProjectLoaded &&
+  SION_DATA_PATH%%/dart-code.dart-code-3.114.2-universal/media/icons/sidebar/de\
+  ep_links.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
+  Links\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProjec\
+  tLoaded &&
   dart-code:devToolsSidebar.deep-links\"}]},{\"id\":\"workbench.view.extension.\
-  azure\",\"name\":\"Azure\",\"isBuiltin\":false},{\"id\":\"workbench.view.exte\
-  nsion.dataworkspace\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PAT\
-  H%%/ms-mssql.data-workspace-vscode-0.6.2/images/data-workspace.svg\",\"scheme\
-  \":\"file\"},\"name\":\"Database
-  Projects\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.exten\
-  sion.dockerView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/\
-  ms-azuretools.vscode-docker-1.29.6/resources/docker.svg\",\"scheme\":\"file\"\
-  },\"name\":\"Docker\",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]},{\
-  \"id\":\"workbench.view.extension.objectExplorer\",\"iconUrl\":{\"$mid\":1,\"\
-  path\":\"%%EXTENSION_DATA_PATH%%/ms-mssql.mssql-1.31.1/media/server_page_dark\
-  .svg\",\"scheme\":\"file\"},\"name\":\"SQL
-  Server\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"config.mssql.enableQue\
-  ryHistoryFeature\"}]},{\"id\":\"workbench.view.extension.vscode-edge-devtools\
+  containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/m\
+  s-azuretools.vscode-containers-2.1.0-universal/resources/ContainerTools.svg\",\
+  \"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\":false,\"views\":[{\
+  },{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.vscode-edge-devtools\
   -view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-edgedev\
-  tools.vscode-edge-devtools-2.1.8/resources/viewIcon.svg\",\"scheme\":\"file\"\
-  },\"name\":\"Microsoft Edge
+  tools.vscode-edge-devtools-2.1.9-universal/resources/viewIcon.svg\",\"scheme\
+  \":\"file\"},\"name\":\"Microsoft Edge
   Tools\",\"isBuiltin\":false,\"views\":[{},{}]},{\"id\":\"workbench.view.exten\
   sion.PowerShell\",\"themeIcon\":{\"id\":\"terminal-powershell\"},\"name\":\"P\
   owerShell\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.powershell.side\
   Bar.CommandExplorerVisibility\"}]},{\"id\":\"workbench.view.extension.sidebar\
   -view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/nuxtr.nuxt\
-  r-vscode-0.2.16/assets/logo.svg\",\"scheme\":\"file\"},\"name\":\"Nuxtr\",\"i\
-  sBuiltin\":false,\"views\":[{\"when\":\"nuxtr.isNuxtProject\"}]}]"
+  r-vscode-0.2.16-universal/assets/logo.svg\",\"scheme\":\"file\"},\"name\":\"N\
+  uxtr\",\"isBuiltin\":false,\"views\":[{\"when\":\"nuxtr.isNuxtProject\"}]}]"
 workbench.activityBar.location: default
-workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.aichat.827c45a7-65d4-4ce9-a688-789d92c310e6","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aichat","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.composerViewPane2","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aipaneaaaiBugFinder","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
-workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.aichat.827c45a7-65d4-4ce9-a688-789d92c310e6","themeIcon":{"id":"files"},"name":"Implementing
-  structured versioning in backend
-  architecture","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.aichat","name":"New
-  chat","isBuiltin":false},{"id":"workbench.panel.composerViewPane2","name":"Composer","isBuiltin":false},{"id":"workbench.panel.aipaneaaaiBugFinder","name":"Bug
-  Finder","isBuiltin":false},{"id":"workbench.panel.chat","name":"Chat","isBuiltin":false},{"id":"workbench.panel.chatEditing","name":"Copilot
-  Edits","isBuiltin":false}]'
-workbench.auxiliaryBar.size: "296"
-workbench.backgroundComposer.persistentData: '{"showControlPanel":false,"dataVersion":1,"lastOpenedBcIds":{}}'
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.aichat.999a0220-7d05-430d-b1f1-303880cb1e03","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aichat.70cc34ba-25df-4a81-8010-ef4d99e80cd9","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aichat.827c45a7-65d4-4ce9-a688-789d92c310e6","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aichat","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.composerViewPane2","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.aipaneaaaiBugFinder","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.aichat.999a0220-7d05-430d-b1f1-303880cb1e03","name":"Configure
+  dark mode for
+  readability","isBuiltin":false},{"id":"workbench.panel.aichat.70cc34ba-25df-4a81-8010-ef4d99e80cd9","themeIcon":{"id":"files"},"name":"Update
+  safeParseNumber for date
+  formats","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.aichat.827c45a7-65d4-4ce9-a688-789d92c310e6","isBuiltin":false},{"id":"workbench.panel.aichat","isBuiltin":false},{"id":"workbench.panel.composerViewPane2","isBuiltin":false},{"id":"workbench.panel.aipaneaaaiBugFinder","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"false"}]},{"id":"workbench.panel.chatEditing","themeIcon":{"id":"edit-session"},"name":"Copilot
+  Edits","isBuiltin":true,"views":[{"when":"false"}]}]'
+workbench.auxiliaryBar.size: "624"
+workbench.backgroundComposer.persistentData: '{"showControlPanel":false,"dataVersion":1,"lastOpenedBcIds":{},"isBackgroundComposerEnabled":false}'
+workbench.contrib.onboarding.browser.changeManagement.03122025.shown: "true"
+workbench.contrib.onboarding.browser.changeManagement.03262025.shown: "true"
 workbench.contrib.onboarding.browser.changeManagement.05052025.shown: "true"
+workbench.contrib.onboarding.browser.changePopup.03292025.shown: "true"
 workbench.contrib.onboarding.browser.changeRemainingCmdBackspaceKeybindings.04012025.shown: "true"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["sql",true],["ini",true],["yaml",true],["editorconfig",true],["ignore",true],["groovy",true],["mdc",true],["xml",true],["jsonc",true],["plaintext",true],["json",true],["csharp",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":1},{"id":"timeline","isHidden":false,"order":4},{"id":"notepad","isHidden":true,"order":6},{"id":"workbench.explorer.openEditorsView","isHidden":true,"order":0},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true,"order":5},{"id":"docsView.documentation","isHidden":false,"order":3},{"id":"workbench.explorer.fileView","isHidden":false,"order":2},{"id":"dartDependencyTree","isHidden":false,"order":7},{"id":"liveshare.session.explorer","isHidden":false},{"id":"dartFlutterSidebar","isHidden":false},{"id":"mongoDBConnectionExplorer","isHidden":false},{"id":"liveshare.session","isHidden":false},{"id":"dartFlutterOutline","isHidden":false},{"id":"mongoDBPlaygroundsExplorer","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"mongoDBHelpExplorer","isHidden":false},{"id":"liveshare.devtools","isHidden":false},{"id":"slnexpl","isHidden":false},{"id":"ionide.projectExplorer","isHidden":false},{"id":"dataworkspace.views.main","isHidden":false},{"id":"objectExplorer","isHidden":false},{"id":"queryHistory","isHidden":false},{"id":"solutionExplorer","isHidden":false,"order":4},{"id":"slnbrw","isHidden":false},{"id":"ionide.projectExplorerInActivity","isHidden":false},{"id":"azureFocusView","isHidden":false},{"id":"azureResourceGroups","isHidden":false},{"id":"azureWorkspace","isHidden":false},{"id":"azureTenantsView","isHidden":false},{"id":"ms-azuretools.helpAndFeedback","isHidden":false},{"id":"azureActivityLog","isHidden":false},{"id":"aws.appBuilderForFileExplorer","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"bookmarksExplorer","isHidden":false},{"id":"bookmarksHelpAndFeedback","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"todo-tree-view","isHidden":false},{"id":"cSpellInfoView","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false},{"id":"polyglot-notebook-panel-values","isHidden":false},{"id":"cell-tag","isHidden":false},{"id":"aws.toolkit.notifications","isHidden":false},{"id":"aws.amazonq.codewhisperer","isHidden":false},{"id":"aws.explorer","isHidden":false},{"id":"aws.cdk","isHidden":false},{"id":"aws.appBuilder","isHidden":false},{"id":"aws.codecatalyst","isHidden":false},{"id":"aws.toolkit.AmazonCommonAuth","isHidden":false},{"id":"terraform.providers","isHidden":false},{"id":"terraform.modules","isHidden":false},{"id":"terraform.cloud.workspaces","isHidden":false},{"id":"terraform.cloud.runs","isHidden":false},{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false},{"id":"resharpervscode.inspectcode","isHidden":false},{"id":"postman-for-vscode.sidebar-panel","isHidden":false},{"id":"postman-console-view","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["asciidoc",true],["editorconfig",true],["properties",true],["xml",true],["csharp",true],["javascript",true],["vue",true],["json",true],["jsonc",true],["plaintext",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"notepad","isHidden":true,"order":3},{"id":"outline","isHidden":false,"order":1},{"id":"timeline","isHidden":false,"order":4},{"id":"workbench.explorer.openEditorsView","isHidden":true,"order":0},{"id":"workbench.explorer.emptyView","isHidden":false,"order":2},{"id":"npm","isHidden":true,"order":5},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"aws.appBuilderForFileExplorer","isHidden":false},{"id":"slnexpl","isHidden":false,"order":6},{"id":"docsView.documentation","isHidden":false,"order":7},{"id":"terraform.providers","isHidden":false},{"id":"terraform.modules","isHidden":false},{"id":"dartDependencyTree","isHidden":false,"order":8},{"id":"terraform.cloud.workspaces","isHidden":false},{"id":"terraform.cloud.runs","isHidden":false},{"id":"azureFocusView","isHidden":false},{"id":"azureResourceGroups","isHidden":false},{"id":"azureWorkspace","isHidden":false},{"id":"azureTenantsView","isHidden":false},{"id":"ms-azuretools.helpAndFeedback","isHidden":false},{"id":"azureActivityLog","isHidden":false},{"id":"objectExplorer","isHidden":false},{"id":"queryHistory","isHidden":false},{"id":"prismaPostgresDatabases","isHidden":false},{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false},{"id":"aws.toolkit.notifications","isHidden":false},{"id":"aws.amazonq.codewhisperer","isHidden":false},{"id":"aws.explorer","isHidden":false},{"id":"aws.cdk","isHidden":false},{"id":"aws.appBuilder","isHidden":false},{"id":"aws.codecatalyst","isHidden":false},{"id":"aws.toolkit.AmazonCommonAuth","isHidden":false},{"id":"todo-tree-view","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"cSpellInfoView","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.aipaneaaaiBugFinder.hidden: '[{"id":"workbench.panel.aipane.viewaaaiBugFinder","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.composerChatViewPane..827c45a7-65d4-4ce9-a688-789d92c310e6.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
+workbench.panel.composerChatViewPane.70cc34ba-25df-4a81-8010-ef4d99e80cd9.hidden:
+  '[{"id":"workbench.panel.aichat.view.82a88aee-0a3a-4f7f-bf3c-8274094cb3eb","isHidden":false},{"id":"workbench.panel.aichat.view.95d3b534-125c-4cf5-9f8b-3690884372ac","isHidden":false},{"id":"workbench.panel.aichat.view.d6cfe06b-1ea9-4203-8758-ee28ca9c85e8","isHidden":false},{"id":"workbench.panel.aichat.view.722edaae-30f9-4486-88e6-5b5b74a9ea62","isHidden":false},{"id":"workbench.panel.aichat.view.edcd0590-4821-444c-8121-fa918e1702cb","isHidden":false},{"id":"workbench.panel.aichat.view.be19419b-e1a0-4cb6-a856-7ca4aa9eacd8","isHidden":false},{"id":"workbench.panel.aichat.view.1ba01c26-f9f5-4fab-8654-670350da1250","isHidden":false},{"id":"workbench.panel.aichat.view.ba6e7a60-4a18-4711-a72e-068bf06f36c3","isHidden":false},{"id":"workbench.panel.aichat.view.cf5476a8-e147-4087-acfe-539eedbe92b4","isHidden":false},{"id":"workbench.panel.aichat.view.81c0a9c9-79d4-4642-ae90-f2f865d4a3a9","isHidden":false},{"id":"workbench.panel.aichat.view.8b9e1e99-b8fb-4d60-91f2-3a0fa30b44fa","isHidden":false},{"id":"workbench.panel.aichat.view.c59ba1df-d86f-4678-bde3-6d746d76c2c3","isHidden":false},{"id":"workbench.panel.aichat.view.d41b7da8-2187-47be-b4ae-09e2e0af9b2e","isHidden":false},{"id":"workbench.panel.aichat.view.b13c4409-d852-475b-b9cc-11f91399ebce","isHidden":false},{"id":"workbench.panel.aichat.view.b4551d6d-2c67-493f-80a1-8245e40ea5f2","isHidden":false},{"id":"workbench.panel.aichat.view.11190a3d-51fb-44cf-8a1a-ab746edd2e8d","isHidden":false},{"id":"workbench.panel.aichat.view.1f1b7adb-9b9a-456d-97b1-86c4747aed46","isHidden":false},{"id":"workbench.panel.aichat.view.841f71dc-8c34-4f79-beb3-bb7cfd974119","isHidden":false},{"id":"workbench.panel.aichat.view.818869a2-8661-4f88-8ff1-b3c07d1dad42","isHidden":false},{"id":"workbench.panel.aichat.view.2b990376-083f-402d-aa89-ea148396d1af","isHidden":false},{"id":"workbench.panel.aichat.view.ed39c1a9-39a4-4976-9d22-13170dc7ca95","isHidden":false},{"id":"workbench.panel.aichat.view.d3393188-5f9f-456d-a0e1-05b7a1c84fdf","isHidden":false},{"id":"workbench.panel.aichat.view.0e6e174d-35f2-4a53-a066-9793f98b17d9","isHidden":false},{"id":"workbench.panel.aichat.view.b0b8713e-0bfb-4d92-8a6d-b837927ae197","isHidden":false},{"id":"workbench.panel.aichat.view.9d5fec8d-fc49-453e-98ea-61f944c1349b","isHidden":false},{"id":"workbench.panel.aichat.view.2565b0b4-d521-49b9-9580-46eacad1ca3c","isHidden":false},{"id":"workbench.panel.aichat.view.1d1ec907-d69e-4f9f-8239-d83a622902f9","isHidden":false},{"id":"workbench.panel.aichat.view.610276fc-6894-4551-bd60-095352629f10","isHidden":false},{"id":"workbench.panel.aichat.view.8bb992d7-3944-4355-97b3-f46bc82344b7","isHidden":false},{"id":"workbench.panel.aichat.view.127fe70b-89f6-48b7-9d72-ff226c8939bf","isHidden":false},{"id":"workbench.panel.aichat.view.9357201b-371a-4a49-82f0-0f0dd6114595","isHidden":false},{"id":"workbench.panel.aichat.view.c3210e6b-d1c5-405a-81ee-742a36c07770","isHidden":false},{"id":"workbench.panel.aichat.view.630aa0c4-de29-46fc-82ac-dcb948b4fdb1","isHidden":false},{"id":"workbench.panel.aichat.view.b8ab2045-257d-454e-8b65-515904604500","isHidden":false},{"id":"workbench.panel.aichat.view.6c1f784f-2adf-4dd8-af55-ecc501f9b964","isHidden":false},{"id":"workbench.panel.aichat.view.dbe01eec-327b-46b9-8d3b-901c4186fad4","isHidden":false},{"id":"workbench.panel.aichat.view.df1f7605-f963-4acf-8caf-5032f933c59d","isHidden":false},{"id":"workbench.panel.aichat.view.3bd42dd1-ac3d-4fc8-bbf7-b87d6c2585c6","isHidden":false},{"id":"workbench.panel.aichat.view.f553620e-d4f3-48cb-997b-46dc87dc3bca","isHidden":false},{"id":"workbench.panel.aichat.view.506b362e-2cb7-40b0-b70a-b8773aaa6571","isHidden":false},{"id":"workbench.panel.aichat.view.d7bed44c-fd49-4767-9e5d-d4dd23430652","isHidden":false},{"id":"workbench.panel.aichat.view.902cf194-c262-4380-97aa-b17448e584fb","isHidden":false},{"id":"workbench.panel.aichat.view.0b4d5be7-222a-4978-8126-91886f773fbc","isHidden":false},{"id":"workbench.panel.aichat.view.33bcc8cd-e688-4cc2-bc81-836d64488ef1","isHidden":false},{"id":"workbench.panel.aichat.view.cded136b-1f3e-4cb4-9a5f-99317691e6d3","isHidden":false},{"id":"workbench.panel.aichat.view.576bb0cc-d927-42e9-89f3-9d3975b61d89","isHidden":false},{"id":"workbench.panel.aichat.view.b0cd9a41-633f-4a8b-934f-f62cf79719f5","isHidden":false},{"id":"workbench.panel.aichat.view.41b209ed-2e84-45c7-bf09-97b5e03cbf2b","isHidden":false},{"id":"workbench.panel.aichat.view.4dd7f898-0234-4532-a96f-eefdacf3c33a","isHidden":false},{"id":"workbench.panel.aichat.view.d05c0ecf-0911-42d4-b339-fd76a5286868","isHidden":false}]'
 workbench.panel.composerChatViewPane.827c45a7-65d4-4ce9-a688-789d92c310e6.hidden:
   '[{"id":"workbench.panel.aichat.view.6c19f4dd-4e86-484c-8efc-64718ecaeb32","isHidden":false},{"id":"workbench.panel.aichat.view.dd1cb624-864d-409c-bb29-cf8edbc1c664","isHidden":false},{"id":"workbench.panel.aichat.view.6a7baa35-248d-4c61-9a6c-00d1cdcf4bb4","isHidden":false},{"id":"workbench.panel.aichat.view.f2472fe5-751d-4715-a8c7-6530c45c02e2","isHidden":false},{"id":"workbench.panel.aichat.view.5b9e27b5-4a04-4e01-8bff-aa3dde5e1636","isHidden":false},{"id":"workbench.panel.aichat.view.ca6f042d-1286-4720-814d-9b2f39c4a51f","isHidden":false},{"id":"workbench.panel.aichat.view.30cd1da8-617d-49bd-aee4-67afb1b1f316","isHidden":false},{"id":"workbench.panel.aichat.view.84c295ba-3bb2-4b39-85a2-e73157f303f4","isHidden":false},{"id":"workbench.panel.aichat.view.a3f36adf-9312-4282-9b75-6a4152ea11a0","isHidden":false},{"id":"workbench.panel.aichat.view.7b3b75a8-6a80-48dc-8797-e3d3dce548b6","isHidden":false},{"id":"workbench.panel.aichat.view.40c92357-ed8e-4df1-be47-693e0bae4b5c","isHidden":false},{"id":"workbench.panel.aichat.view.1f89b5fb-45d0-487b-99d1-2348a2ebac72","isHidden":false},{"id":"workbench.panel.aichat.view.b2d204db-bcd1-44e7-a3ad-1f07cfb25ba8","isHidden":false},{"id":"workbench.panel.aichat.view.b6de40ff-8823-4767-9562-49cbcfbc5c7f","isHidden":false},{"id":"workbench.panel.aichat.view.f6898133-ee81-4289-95ae-cd0a05d095ea","isHidden":false},{"id":"workbench.panel.aichat.view.c27794d3-fc1a-455c-978e-e2328cb0de2a","isHidden":false},{"id":"workbench.panel.aichat.view.c13bb2dc-1668-4f0c-b4ae-42c1f33255f0","isHidden":false},{"id":"workbench.panel.aichat.view.73c1a782-7f69-448d-a340-c652ffdb7b37","isHidden":false},{"id":"workbench.panel.aichat.view.30c57aaf-9225-4dd5-9fef-fbec9e4eee61","isHidden":false},{"id":"workbench.panel.aichat.view.693408ef-687f-4bad-996c-da40b571863c","isHidden":false},{"id":"workbench.panel.aichat.view.881b6dd1-e46e-44ef-a7da-9bfe3a151d38","isHidden":false},{"id":"workbench.panel.aichat.view.2068a7f2-bd5c-4578-bc30-2e1a97de6bce","isHidden":false},{"id":"workbench.panel.aichat.view.17f09325-9152-4d2f-b119-1b628427bcf6","isHidden":false},{"id":"workbench.panel.aichat.view.c6b41471-23b7-41e6-84a4-5bc424a05d50","isHidden":false}]'
+workbench.panel.composerChatViewPane.cc708e4b-f7b3-4d0a-9644-a74c88cc2008.hidden:
+  '[{"id":"workbench.panel.aichat.view.ddfa6003-9631-4785-81bb-11b8214cacc3","isHidden":false},{"id":"workbench.panel.aichat.view.54a309fc-16c5-4f9d-b3be-e70faaf99332","isHidden":false},{"id":"workbench.panel.aichat.view.781c9954-ba4a-4e53-a687-c6144c211718","isHidden":false},{"id":"workbench.panel.aichat.view.07de67f8-4d39-4e2c-aa4c-46a60bdde428","isHidden":false},{"id":"workbench.panel.aichat.view.b7165c05-8922-40ef-9979-d0304d487c29","isHidden":false},{"id":"workbench.panel.aichat.view.e17d392e-8666-466c-b5e0-95baef50a949","isHidden":false},{"id":"workbench.panel.aichat.view.a4030bad-ae8c-433f-bbd5-2d8c2e8b3f2c","isHidden":false},{"id":"workbench.panel.aichat.view.5719163f-3f58-491b-a9b2-a1daaddd0c61","isHidden":false},{"id":"workbench.panel.aichat.view.3c3fbdba-5a8a-45dd-a3ad-717b49f0ab89","isHidden":false},{"id":"workbench.panel.aichat.view.e8245dee-7944-4934-955e-cfb0d9355e5e","isHidden":false},{"id":"workbench.panel.aichat.view.0f85d30a-ba88-4ee3-b0ec-f8bf1ef1b5dc","isHidden":false},{"id":"workbench.panel.aichat.view.2c8948ed-7cf2-44c3-a124-afc4425cfbe5","isHidden":false},{"id":"workbench.panel.aichat.view.1227f9b7-8e3a-4261-8832-75866a3e1bfe","isHidden":false},{"id":"workbench.panel.aichat.view.7d524a17-40cc-4b8c-b0f9-cf8843fdf69e","isHidden":false},{"id":"workbench.panel.aichat.view.52d46c6a-9ca4-4001-bc6f-75f2ee87894c","isHidden":false},{"id":"workbench.panel.aichat.view.f58a0ec5-6eb8-4dca-bf95-4cdbad69103e","isHidden":false},{"id":"workbench.panel.aichat.view.d3b156fc-3b6e-45a9-b914-db89fff2f05f","isHidden":false},{"id":"workbench.panel.aichat.view.ce220282-90f9-4124-95d5-208495053574","isHidden":false},{"id":"workbench.panel.aichat.view.82a88aee-0a3a-4f7f-bf3c-8274094cb3eb","isHidden":false}]'
 workbench.panel.composerChatViewPane.hidden: '[{"id":"workbench.panel.aichat.view","isHidden":false}]'
 workbench.panel.composerViewPane2.hidden: '[{"id":"workbench.panel.composerViewPane2.view","isHidden":false}]'
 workbench.panel.lastNonMaximizedHeight: "508"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.queryResult","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.azurePanel","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false}]'
-workbench.panel.placeholderPanels: '[{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.postman-console-view-container","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.queryResult","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-mssql.mssql-1.31.1/media/SignIn.svg","scheme":"file"},"name":"Query
-  Results
-  (Preview)","isBuiltin":false,"views":[{"when":"config.mssql.enableNewQueryResultFeature
-  &&
-  config.mssql.enableRichExperiences"}]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.azurePanel","name":"Azure","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.postman-console-view-container","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/postman.postman-for-vscode-1.15.0-universal/resources/light/console.svg","scheme":"file"},"name":"Postman
+  Console","isBuiltin":false,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "419"
+workbench.panel.size: "402"
 workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.services.onFirstStartupService.hasNotResetJetBrainsMonoFont: "false"
 workbench.services.onFirstStartupService.isVeryFirstTime: "false"
-workbench.sideBar.size: "362"
+workbench.sideBar.size: "370"
 workbench.statusbar.hidden: '["ms-dotnettools.csharp/csharp.projectContextStatus","ms-dotnettools.csharp/csharp.workspaceStatus"]'
 workbench.view.bugbot.hidden: '[{"id":"workbench.views.bugbot","isHidden":false}]'
-workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"exceptions","isHidden":false},{"id":"extension.firefox.loadedScripts","isHidden":false},{"id":"extension.firefox.eventBreakpoints","isHidden":false}]'
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"extension.firefox.loadedScripts","isHidden":false},{"id":"extension.firefox.eventBreakpoints","isHidden":false},{"id":"dotnet-meteor.modulesView","isHidden":false}]'
 workbench.view.extension.aws-explorer.state.hidden: '[{"id":"aws.toolkit.notifications","isHidden":false},{"id":"aws.amazonq.codewhisperer","isHidden":false},{"id":"aws.explorer","isHidden":false},{"id":"aws.cdk","isHidden":false},{"id":"aws.appBuilder","isHidden":false},{"id":"aws.codecatalyst","isHidden":false},{"id":"aws.toolkit.AmazonCommonAuth","isHidden":false}]'
 workbench.view.extension.azure.state.hidden: '[{"id":"azureLogicAppsExplorer","isHidden":false},{"id":"azureIntegrationAccountsExplorer","isHidden":false},{"id":"azureFocusView","isHidden":true},{"id":"azureResourceGroups","isHidden":false},{"id":"azureWorkspace","isHidden":false},{"id":"azureTenantsView","isHidden":false},{"id":"ms-azuretools.helpAndFeedback","isHidden":false}]'
 workbench.view.extension.azurePanel.state.hidden: '[{"id":"azureActivityLog","isHidden":false}]'
 workbench.view.extension.bookmarks.state.hidden: '[{"id":"bookmarksExplorer","isHidden":false},{"id":"bookmarksHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false}]'
 workbench.view.extension.cspellPanel.state.hidden: '[{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false}]'
 workbench.view.extension.dataworkspace.state.hidden: '[{"id":"dataworkspace.views.main","isHidden":false}]'
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
@@ -478,6 +213,7 @@ workbench.view.extension.mongoDB.state.hidden: '[{"id":"mongoDBConnectionExplore
 workbench.view.extension.objectExplorer.state.hidden: '[{"id":"objectExplorer","isHidden":false},{"id":"queryHistory","isHidden":false}]'
 workbench.view.extension.polyglot-notebook-panel.state.hidden: '[{"id":"polyglot-notebook-panel-values","isHidden":false}]'
 workbench.view.extension.postman-console-view-container.state.hidden: '[{"id":"postman-console-view","isHidden":false}]'
+workbench.view.extension.prismaActivitybar.state.hidden: '[{"id":"prismaPostgresDatabases","isHidden":false}]'
 workbench.view.extension.project-manager.state.hidden: '[{"id":"projectsExplorerFavorites","isHidden":false},{"id":"projectsExplorerGit","isHidden":false},{"id":"projectsExplorerSVN","isHidden":false},{"id":"projectsExplorerAny","isHidden":false},{"id":"projectsExplorerMercurial","isHidden":false},{"id":"projectsExplorerVSCode","isHidden":false},{"id":"projectManagerHelpAndFeedback","isHidden":false}]'
 workbench.view.extension.queryResult.state.hidden: '[{"id":"queryResult","isHidden":false}]'
 workbench.view.extension.resharpervscode.state.hidden: '[{"id":"resharpervscode.inspectcode","isHidden":false}]'
@@ -485,7 +221,7 @@ workbench.view.extension.sidebar-panel.state.hidden: '[{"id":"postman-for-vscode
 workbench.view.extension.sln_explorer.state.hidden: '[{"id":"slnbrw","isHidden":false}]'
 workbench.view.extension.terraform-cloud.state.hidden: '[{"id":"terraform.cloud.workspaces","isHidden":false},{"id":"terraform.cloud.runs","isHidden":false}]'
 workbench.view.extension.terraform.state.hidden: '[{"id":"terraform.providers","isHidden":false},{"id":"terraform.modules","isHidden":false}]'
-workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"dotnetTestExplorer","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
 workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.view.extension.todo-tree-container.state.hidden: '[{"id":"todo-tree-view","isHidden":false}]'
 workbench.view.extension.vscode-edge-devtools-view.state.hidden:
@@ -493,6 +229,6 @@ workbench.view.extension.vscode-edge-devtools-view.state.hidden:
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"targetsWsl","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"~remote.helpPanel","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "149"
+workbench.views.extensions.installed.size: "85"
 workbench.welcomePage.walkthroughMetadata: '[["alefragnani.project-manager#projectManagerWelcome",{"firstSeen":1747303660750,"stepIDs":["saveYourFavoriteProjects","autoDetectGitRepositories","findAndOpenProjects","organizeWithTags","exclusiveSideBar","workingWithRemotes"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'

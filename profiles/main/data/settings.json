@@ -1,352 +1,74 @@
 {
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
-    },
-    "html.format.templating": true,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "[vue]": {
-        "editor.defaultFormatter": "Vue.volar"
-    },
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "python.languageServer": "Pylance",
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "security.workspace.trust.untrustedFiles": "open",
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "notebook.cellToolbarLocation": {
-        "default": "right",
-        "jupyter-notebook": "left"
-    },
-    "python.defaultInterpreterPath": "C:\\Python39\\python.exe",
-    "files.exclude": {
-        "**/.classpath": false,
-        "**/.factorypath": false,
-        "**/.git": false,
-        "**/.project": false,
-        "**/.settings": false,
-        "**/node_modules": false
-    },
-    "diffEditor.ignoreTrimWhitespace": true,
-    "redhat.telemetry.enabled": true,
-    "liveServer.settings.donotVerifyTags": true,
-    "tabnine.experimentalAutoImports": true,
-    "hediet.vscode-drawio.codeLinkActivated": false,
-    "vs-kubernetes": {
-        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\Nasser\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
-        "vscode-kubernetes.helm-path.windows": "C:\\Users\\Nasser\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
-    },
-    "vscode-edge-devtools.mirrorEdits": true,
-    "[xml]": {
-        "editor.defaultFormatter": "PrateekMahendrakar.prettyxml"
-    },
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            80.12
-        ],
-        "editor.selectionHighlight": false,
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": "off",
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggestSelection": "first"
-    },
-    "dart.checkForSdkUpdates": false,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.accessibilitySupport": "off",
-    "vscode-office.openOutline": false,
-    "terminal.integrated.allowMnemonics": true,
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "settingsSync.ignoredSettings": [],
-    "bracketPairColorizer.depreciation-notice": false,
-    "solidity.compileUsingRemoteVersion": "v0.8.4+commit.c7e474f2",
-    "python.formatting.provider": "black",
-    "terminal.integrated.profiles.windows": {
-        "PowerShell": {
-            "source": "PowerShell",
-            "icon": "terminal-powershell"
-        },
-        "Command Prompt": {
-            "path": [
-                "${env:windir}\\Sysnative\\cmd.exe",
-                "${env:windir}\\System32\\cmd.exe"
-            ],
-            "args": [],
-            "icon": "terminal-cmd"
-        },
-        "Git Bash": {
-            "source": "Git Bash"
-        },
-        "Windows PowerShell": {
-            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
-        }
-    },
-    "liveshare.accessibility.soundsEnabled": false,
-    "audioCues.enabled": "off",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "json.maxItemsComputed": 50000,
-    "svg.preview.mode": "svg",
-    "[css]": {
-        "editor.defaultFormatter": "MikeBovenlander.formate"
-    },
-    "[dockercompose]": {
-        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-    },
-    "[yaml]": {
-        "editor.defaultFormatter": "redhat.vscode-yaml"
-    },
-    "git.autofetch": true,
-    "files.autoSave": "afterDelay",
-    "kotlin.languageServer.enabled": false,
-    "kotlin.debugAdapter.enabled": false,
-    "editor.wordWrap": "off",
-    "editor.inlineSuggest.enabled": true,
-    "github.copilot.enable": {
-        "*": true,
-        "yaml": true,
-        "plaintext": true,
-        "markdown": true
-    },
-    "diffEditor.wordWrap": "off",
-    "[asciidoc]": {
-        "editor.wordWrap": "wordWrapColumn",
-        "diffEditor.wordWrap": "on"
-    },
-    "[markdown]": {
-        "diffEditor.wordWrap": "on",
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.defaultFormatter": "Vue.volar"
-    },
-    "[plaintext]": {
-        "editor.unicodeHighlight.ambiguousCharacters": false,
-        "editor.unicodeHighlight.invisibleCharacters": false,
-        "diffEditor.wordWrap": "on",
-        "editor.wordWrap": "bounded",
-        "editor.wordWrapColumn": 80
-    },
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python",
-        "editor.formatOnType": true
-    },
-    "workbench.colorCustomizations": {
-        "[Material Theme Darker High Contrast]": {},
-        "editor.lineHighlightBackground": "#1073cf2d",
-        "editor.lineHighlightBorder": "#9fced11f",
-        "editor.fontFamily": "Fira Code"
-    },
-    "workbench.startupEditor": "none",
-    "java.configuration.runtimes": [],
-    "files.maxMemoryForLargeFilesMB": 8192,
-    "[java]": {
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.defaultFormatter": "xaver.clang-format"
-    },
-    "remote.SSH.remotePlatform": {
-        "sax_new_server": "linux",
-        "46.4.79.188": "linux",
-        "sax-test-server": "linux",
-        "sax-new-server": "linux",
-        "sax-server": "linux",
-        "87.106.191.63": "linux",
-        "IONOS-ABD": "linux"
-    },
-    "cSpell.languageSettings": [],
-    "[latex]": {
-        "editor.defaultFormatter": "James-Yu.latex-workshop"
-    },
-    "debug.javascript.autoAttachFilter": "disabled",
-    "code-runner.languageIdToFileExtensionMap": {
-        "bat": ".bat",
-        "powershell": ".ps1",
-        "typescript": ".ts"
-    },
-    "window.commandCenter": false,
-    "window.doubleClickIconToClose": true,
-    "window.titleBarStyle": "native",
-    "boot-java.rewrite.reconcile": true,
-    "[csharp]": {
-        "editor.defaultFormatter": "csharpier.csharpier-vscode"
-    },
-    "rest-client.environmentVariables": {
-        "$shared": {}
-    },
-    "editor.minimap.size": "fit",
-    "git.openRepositoryInParentFolders": "never",
-    "clangd.path": "c:\\Users\\naaw\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\16.0.2\\clangd_16.0.2\\bin\\clangd.exe",
-    "C_Cpp.intelliSenseEngine": "disabled",
-    "[c]": {
-        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
-    },
-    "azureResourceGroups.groupBy": "resourceGroup",
-    "appService.connections": [],
-    "settingsSync.ignoredExtensions": [],
-    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
-    "files.associations": {
-        "*.cs": "csharp",
-        "*.linq": "csharp",
-        "*.cshtml": "html",
-        "Jenkinsfile": "jinja-yaml"
-    },
-    "[scss]": {
-        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
-    },
-    "markdown-pdf.headerTemplate": "<div style=\"display: none;\"></div>",
-    "markdown-pdf.breaks": true,
-    "window.menuBarVisibility": "toggle",
-    "window.density.editorTabHeight": "compact",
-    "workbench.fontAliasing": "antialiased",
-    "workbench.tree.indent": 9,
-    "workbench.tree.renderIndentGuides": "always",
-    "outline.icons": true,
-    "outline.problems.badges": true,
-    "outline.problems.colors": true,
-    "outline.problems.enabled": true,
-    "workbench.sideBar.fontSize": 8,
-    "menu.fontSize": 8,
-    "panelTitle.activeForeground": "#FFFFFF",
-    "panelTitle.activeBorder": "#007ACC",
-    "panelTitle.fontSize": 8,
-    "statusBar.fontSize": 8,
-    "activityBar.fontSize": 8,
-    "workbench.list.fontSize": 10,
-    "workbench.tree.fontSize": 10,
-    "breadcrumbs.fontSize": 10,
-    "editor.codeLensFontSize": 10,
-    "editor.suggestFontSize": 10,
-    "scm.inputFontSize": 10,
-    "chat.editor.fontFamily": "Fira Code",
-    "chat.editor.fontSize": 10,
-    "chat.editor.fontWeight": "100",
-    "chat.editor.lineHeight": 1.4,
-    "problems.autoReveal": true,
-    "problems.visibility": true,
-    "problems.decorations.enabled": true,
-    "problems.showCurrentInStatus": true,
-    "debug.console.fontFamily": "Fira Code",
-    "debug.console.fontSize": 10,
-    "debug.console.lineHeight": 1.4,
-    "terminal.integrated.lineHeight": 1.4,
-    "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.fontSize": 10,
-    "terminal.integrated.fontWeight": "100",
-    "editor.fontSize": 12,
-    "editor.fontWeight": "100",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "editor.lineHeight": 1.7,
-    "editor.guides.highlightActiveIndentation": true,
-    "editor.guides.bracketPairsHorizontal": true,
-    "editor.guides.highlightActiveBracketPair": true,
-    "editor.rulers": [
-        80,
-        120
-    ],
-    "window.zoomLevel": 0.01,
-    "vscode_custom_css.imports": [
-        "file:///C:/vscode_style/style.css"
-    ],
-    "docsView.documentationView.updateMode": "live",
-    "gitlens.graph.minimap.additionalTypes": [
-        "tags"
-    ],
-    "gitlens.ai.experimental.provider": "openai",
-    "gitlens.ai.experimental.openai.model": "gpt-4-turbo-preview",
-    "notebook.lineNumbers": "on",
-    "gitlens.views.commitDetails.files.layout": "tree",
-    "accessibility.signals.lineHasError": {
-        "sound": "off"
-    },
-    "accessibility.signals.lineHasBreakpoint": {
-        "sound": "off"
-    },
-    "accessibility.signals.lineHasInlineSuggestion": {
-        "sound": "off"
-    },
-    "editor.inlineSuggest.showToolbar": "always",
-    "emulator.emulatorPath": "C:\\Users\\Nasser\\AppData\\Local\\Android\\Sdk\\emulator",
-    "emulator.emulatorPathWindows": "C:\\Users\\Nasser\\AppData\\Local\\Android\\Sdk\\emulator",
-    "azureLogicAppsStandard.autoRuntimeDependenciesPath": "C:\\Users\\Nasser\\.azurelogicapps\\dependencies",
-    "azureLogicAppsStandard.nodeJsBinaryPath": "node",
-    "azureLogicAppsStandard.funcCoreToolsBinaryPath": "func",
-    "azureLogicAppsStandard.dotnetBinaryPath": "dotnet",
-    "jupyter.askForKernelRestart": false,
-    "github.copilot.editor.enableAutoCompletions": true,
-    "[aspnetcorerazor]": {
-        "editor.defaultFormatter": "ms-dotnettools.csharp"
-    },
-    "azureResourceGroups.selectedSubscriptions": [],
-    "azure.resourceFilter": [
-        "b7124753-1b1c-434f-990e-072ab1f4b8ea/85596609-1a14-499a-8a53-86ad56fb0399",
-        "dd86b424-e113-4950-9434-f9f9a176286d/64221f04-a1a2-4a86-8cb1-33126d8cd9f5",
-        "bf5ce70b-00f2-4c49-8a3a-8ba37ca8aab3/692f13c4-46bd-4f29-b950-b1011bafc0b0"
-    ],
-    "gptcommit.openAI.apiKey": "Enter",
-    "vsicons.dontShowNewVersionMessage": true,
-    "editor.largeFileOptimizations": false,
-    "mssql.enableRichExperiencesDoNotShowPrompt": true,
-    "aws.telemetry": false,
-    "dart.flutterSdkPath": "C:\\Users\\Nasser\\dev\\flutter",
-    "powershell.promptToUpdatePowerShell": false,
-    "editor.inlayHints.enabled": "off",
-    "editor.guides.indentation": false,
-    "editor.guides.bracketPairs": "active",
-    "vite.port": 5173,
-    "mssql.connectionGroups": [
-        {
-            "name": "ROOT",
-            "id": "74CB3DAF-04F1-48A2-83AF-CEB10F557CD4"
-        }
-    ],
-    "mssql.connections": [],
-    "editor.gotoLocation.multipleDefinitions": "goto",
-    "workbench.iconTheme": "symbols",
-    "editor.minimap.enabled": true,
-    "[sql]": {
-        "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
-    },
-    "workbench.activityBar.orientation": "vertical",
-    "workbench.editor.splitInGroupLayout": "vertical",
-    "workbench.sideBar.location": "right",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorBlinking": "smooth",
-    "update.releaseTrack": "prerelease",
-    "cursor.cpp.enablePartialAccepts": true,
-    "cursor.general.gitGraphIndexing": "enabled",
-    "window.systemColorTheme": "auto",
-    "mssql.autoDisableNonTSqlLanguageService": true,
-    "sync.autoDownload": true,
-    "sync.autoUpload": true,
-    "sync.forceDownload": true,
-    "sync.forceUpload": true,
-    "sync.quietSync": true,
-    "window.newWindowProfile": "Default",
-    "dotnetAcquisitionExtension.existingDotnetPath": [],
-    "omnisharp.enableLspDriver": true,
-    "dotnet.backgroundAnalysis.analyzerDiagnosticsScope": "fullSolution",
-    "csharpier.enableDiagnostics": false,
-    "omnisharp.enableDecompilationSupport": true,
-    "dotnet.formatting.organizeImportsOnFormat": true,
-    "editor.minimap.showSlider": "always",
-    "cursor.composer.shouldAllowCustomModes": true,
-    "cursor.diffs.useCharacterLevelDiffs": true,
-    "workbench.panel.showLabels": false,
-    "diffEditor.renderSideBySide": false,
-    "diffEditor.hideUnchangedRegions.enabled": true
+  "editor.fontFamily": "'Fira Code', 'JetBrains Mono', monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "500", // "400" is normal weight.
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.2,
+  // --- Bracket Colorization ---
+  // Assigns colors to matching brackets to make them easier to identify.
+  "editor.bracketPairColorization.enabled": true,
+  // Set font for other parts of the UI
+  "terminal.integrated.fontFamily": "'Fira Code', monospace",
+  "terminal.integrated.fontSize": 12,
+  "debug.console.fontFamily": "'Fira Code', monospace",
+  "debug.console.fontSize": 12,
+  // --- Chat Font ---
+  // Makes the chat font bolder for better readability.
+  "chat.editor.fontWeight": "500",
+  // --- UI Sizing ---
+  // To make the menu and general UI smaller, you can adjust window.zoomLevel.
+  // Negative values zoom out (smaller UI), positive values zoom in (larger UI).
+  // -0.5 provides a slightly smaller interface. Adjust as you see fit.
+  "window.zoomLevel": -0.5,
+  // --- Other Quality-of-Life Settings ---
+  "explorer.autoReveal": true, // Automatically reveal and select files in the sidebar.
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "material-icon-theme", // A popular icon theme, install it from marketplace.
+  "editor.rulers": [
+    80,
+    120
+  ], // Disabling minimap for more space
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false, // Makes folder structure easier to read
+  // To make the sidebar and panels a bit more compact
+  "window.density.editorTabHeight": "compact",
+  "workbench.tree.indent": 10,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.orientation": "vertical",
+  "cursor.composer.shouldAllowCustomModes": true,
+  "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+  "dotnet.formatting.organizeImportsOnFormat": true,
+  "dotnet.server.useOmnisharp": false,
+  "csharp.suppressBuildAssetsNotification": true,
+  "dotnetAcquisitionExtension.existingDotnetPath": [
+    {
+      "extensionId": "ms-dotnettools.csharp",
+      "path": "/home/user/.dotnet/"
+    }
+  ],
+  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.minimap.enabled": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  },
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }

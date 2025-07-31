@@ -1,0 +1,12 @@
+[
+    {
+        "key": "ctrl+k ctrl+c",
+        "command": "workbench.action.addComment",
+        "when": "activeCursorHasCommentingRange"
+    },
+    {
+        "key": "ctrl+m ctrl+alt+c",
+        "command": "-workbench.action.addComment",
+        "when": "activeCursorHasCommentingRange"
+    }
+]
