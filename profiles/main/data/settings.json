@@ -70,5 +70,36 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "editor.language.brackets": [],
+  "workbench.colorCustomizations": {
+    // Enhanced bracket pair colorization for eye comfort and clarity
+    "editorBracketHighlight.foreground1": "#FFD166", // Soft Amber (outermost)
+    "editorBracketHighlight.foreground2": "#06D6A0", // Mint Green
+    "editorBracketHighlight.foreground3": "#118AB2", // Calming Blue
+    "editorBracketHighlight.foreground4": "#EF476F", // Gentle Pink/Red
+    "editorBracketHighlight.foreground5": "#9D4EDD", // Soft Purple
+    "editorBracketHighlight.foreground6": "#FFB4A2", // Peach
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF1744", // Strong Red for errors
+    // Subtle, low-contrast backgrounds for active bracket pairs (reduce eye strain)
+    "editorBracketHighlight.background1": "#FFFBEA", // Light Amber
+    "editorBracketHighlight.background2": "#E6FFFA", // Light Mint
+    "editorBracketHighlight.background3": "#EAF6FB", // Light Blue
+    "editorBracketHighlight.background4": "#FDE2E4", // Light Pink
+    "editorBracketHighlight.background5": "#F3E8FF", // Light Purple
+    "editorBracketHighlight.background6": "#FFF1E6", // Light Peach
+    // Indent guides: soft, non-intrusive for method structure
+    "editorIndentGuide.activeBackground1": "#FFD166", // Amber
+    "editorIndentGuide.activeBackground2": "#06D6A0", // Mint
+    "editorIndentGuide.activeBackground3": "#118AB2", // Blue
+    "editorIndentGuide.background1": "#B0BEC5", // Muted Blue-Gray
+    "editorIndentGuide.background2": "#B2F7EF", // Very light Mint
+    "editorIndentGuide.background3": "#D0E6FA", // Very light Blue
+    // Caret and line highlight for focus
+    "editorCursor.foreground": "#118AB2", // Blue cursor for visibility
+    // Selection highlight: vivid, high-contrast blue for clear visibility of selected text
+    "editor.selectionBackground": "#3399FF", // Strong blue for primary selection (WCAG AA contrast)
+    "editor.selectionHighlightBackground": "#99CCFF", // Lighter blue for secondary/word highlights
+  },
+  "debug.onTaskErrors": "showErrors"
 }
