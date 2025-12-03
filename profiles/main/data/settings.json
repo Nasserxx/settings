@@ -38,13 +38,33 @@
   "workbench.activityBar.orientation": "vertical",
   "cursor.composer.shouldAllowCustomModes": true,
   "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+  "dotnetAcquisitionExtension.allowInvalidPaths": true,
+  "dotnet.dotnetRoot": "/home/user/.dotnet",
+  "omnisharp.dotNetCliPaths": [
+    "/home/user/.dotnet/dotnet"
+  ],
+  "omnisharp.useModernNet": true,
+  "dotnet.server.dotNetCliPaths": [
+    "/home/user/.dotnet/dotnet"
+  ],
+  "dotnet.server.enableTelemetry": false,
   "dotnet.formatting.organizeImportsOnFormat": true,
   "dotnet.server.useOmnisharp": false,
   "csharp.suppressBuildAssetsNotification": true,
+  "csharp.implementationsCodeLens.enabled": true,
+  "csharp.testCodeLens.enabled": true,
+  "dotnet.server.enableRoslynAnalyzers": true,
+  "dotnet.server.enableImportCompletion": true,
+  "dotnet.server.enableAsyncCompletion": true,
+  "dotnet.server.maxProjectResults": 250,
+  "dotnet.server.maxProjectFileCount": 2000,
+  "dotnet.server.enableCodeLens": true,
+  "dotnet.server.enableCodeActions": true,
+  "dotnet.server.enableHover": true,
   "dotnetAcquisitionExtension.existingDotnetPath": [
     {
       "extensionId": "ms-dotnettools.csharp",
-      "path": "/home/user/.dotnet/"
+      "path": "/home/user/bin/dotnet"
     }
   ],
   "diffEditor.ignoreTrimWhitespace": true,
@@ -56,7 +76,6 @@
   "[csharp]": {
     "editor.defaultFormatter": "csharpier.csharpier-vscode"
   },
-  "diffEditor.hideUnchangedRegions.enabled": true,
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "[vue]": {
@@ -100,6 +119,18 @@
     // Selection highlight: vivid, high-contrast blue for clear visibility of selected text
     "editor.selectionBackground": "#3399FF", // Strong blue for primary selection (WCAG AA contrast)
     "editor.selectionHighlightBackground": "#99CCFF", // Lighter blue for secondary/word highlights
+    "tab.activeBorderTop": "#00E676",
+    "tab.activeBorder": "#00E676",
+    "tab.activeBackground": "#204022",
+    "tab.activeForeground": "#FFFFFF",
+    "tab.activeModifiedBorder": "#FF5252"
   },
-  "debug.onTaskErrors": "showErrors"
+  "debug.onTaskErrors": "showErrors",
+  "cursor.composer.textSizeScale": 1.15,
+  "cursor.agent_layout_browser_beta_setting": true,
+  "dotnet.codeLens.enableReferencesCodeLens": true,
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
+  },
+  "window.commandCenter": true
 }

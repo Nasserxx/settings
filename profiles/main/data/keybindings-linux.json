@@ -8,5 +8,9 @@
         "key": "ctrl+m ctrl+alt+c",
         "command": "-workbench.action.addComment",
         "when": "activeCursorHasCommentingRange"
+    },
+    {
+        "key": "ctrl+i",
+        "command": "composerMode.agent"
     }
 ]
