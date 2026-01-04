@@ -23,8 +23,7 @@
   // --- Other Quality-of-Life Settings ---
   "explorer.autoReveal": true, // Automatically reveal and select files in the sidebar.
   "editor.formatOnSave": true,
-  "files.autoSave": "afterDelay",
-  "workbench.iconTheme": "material-icon-theme", // A popular icon theme, install it from marketplace.
+  "files.autoSave": "afterDelay", // A popular icon theme, install it from marketplace.
   "editor.rulers": [
     80,
     120
@@ -67,7 +66,7 @@
       "path": "/home/user/bin/dotnet"
     }
   ],
-  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.renderSideBySide": false,
   "editor.minimap.enabled": true,
   "[typescript]": {
@@ -132,5 +131,25 @@
   "[sql]": {
     "editor.defaultFormatter": "mtxr.sqltools"
   },
-  "window.commandCenter": true
+  "window.commandCenter": true,
+  "aws.cloudformation.telemetry.enabled": false,
+  "aws.telemetry": false,
+  "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+  "terminal.integrated.allowChords": false,
+  "terminal.integrated.allowMnemonics": true,
+  "dart.devToolsLocation": {
+    "default": "beside",
+    "inspector": "sidebar"
+  },
+  "cursor.composer.usageSummaryDisplay": "always",
+  "cursor.composer.queueMessageDefaultBehavior": "send",
+  "update.releaseTrack": "prerelease",
+  "task.allowAutomaticTasks": "on",
+  "remote.SSH.remotePlatform": {
+    "billeve": "linux"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.enabledFileTypes": {
+    "dart": false
+  }
 }
